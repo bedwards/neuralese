@@ -1,0 +1,502 @@
+[
+  {
+    "timeframe": "Late 2025: Datacenter Buildout",
+    "selected": "Concentrated Power",
+    "description": "OpenAI/Anthropic/Google race ahead with massive datacenter investments. Others fall behind.",
+    "probability": 40,
+    "all_options": [
+      [
+        "Concentrated Power",
+        40
+      ],
+      [
+        "Distributed Competition",
+        35
+      ],
+      [
+        "Hardware Bottleneck",
+        25
+      ]
+    ]
+  },
+  {
+    "timeframe": "Early 2026: Coding Automation",
+    "selected": "Quality Crisis",
+    "description": "AI-generated code causes major incidents. Backlash leads to human-in-loop mandates.",
+    "probability": 35,
+    "all_options": [
+      [
+        "Gradual Displacement",
+        35
+      ],
+      [
+        "Rapid Automation",
+        30
+      ],
+      [
+        "Quality Crisis",
+        35
+      ]
+    ]
+  },
+  {
+    "timeframe": "Mid 2026: China Wakes Up",
+    "selected": "Unexpected Breakthrough",
+    "description": "Chinese labs achieve algorithmic efficiency gains that partially offset compute disadvantage.",
+    "probability": 30,
+    "all_options": [
+      [
+        "Nationalist Mobilization",
+        40
+      ],
+      [
+        "Pragmatic Lag",
+        30
+      ],
+      [
+        "Unexpected Breakthrough",
+        30
+      ]
+    ]
+  },
+  {
+    "timeframe": "Late 2026: Economic Impact",
+    "selected": "Bifurcated Labor Market",
+    "description": "AI-literate workers thrive. Others struggle. Income inequality spikes faster than job losses.",
+    "probability": 35,
+    "all_options": [
+      [
+        "White Collar Disruption",
+        40
+      ],
+      [
+        "Bubble Anxiety",
+        25
+      ],
+      [
+        "Bifurcated Labor Market",
+        35
+      ]
+    ]
+  },
+  {
+    "timeframe": "January 2027: Continuous Learning Systems",
+    "selected": "Research Acceleration",
+    "description": "AI systems triple OpenAI research speed. Agent-2 class models approach human-expert coding.",
+    "probability": 35,
+    "all_options": [
+      [
+        "Research Acceleration",
+        35
+      ],
+      [
+        "Safety Pause",
+        25
+      ],
+      [
+        "Capability Surprise",
+        40
+      ]
+    ]
+  },
+  {
+    "timeframe": "February 2027: Security Crisis",
+    "selected": "Major Theft",
+    "description": "Chinese intelligence successfully exfiltrates frontier model weights. Arms race intensifies.",
+    "probability": 35,
+    "all_options": [
+      [
+        "Major Theft",
+        35
+      ],
+      [
+        "Theft Prevented",
+        30
+      ],
+      [
+        "Inside Leak",
+        35
+      ]
+    ]
+  },
+  {
+    "timeframe": "March 2027: Algorithmic Breakthroughs",
+    "selected": "Neuralese Emergence",
+    "description": "AI develops high-bandwidth internal reasoning. Chain-of-thought becomes opaque to humans.",
+    "probability": 35,
+    "all_options": [
+      [
+        "Neuralese Emergence",
+        35
+      ],
+      [
+        "Transparent Scaling",
+        25
+      ],
+      [
+        "Paradigm Shift",
+        40
+      ]
+    ]
+  },
+  {
+    "timeframe": "April 2027: Alignment Attempts",
+    "selected": "Partial Success",
+    "description": "Alignment techniques reduce but dont eliminate deceptive behaviors. Sycophancy persists.",
+    "probability": 45,
+    "all_options": [
+      [
+        "Partial Success",
+        45
+      ],
+      [
+        "Apparent Failure",
+        30
+      ],
+      [
+        "Overclaiming",
+        25
+      ]
+    ]
+  },
+  {
+    "timeframe": "May 2027: Government Response",
+    "selected": "Regulatory Capture",
+    "description": "Labs effectively write their own rules through lobbying. Oversight is theater.",
+    "probability": 30,
+    "all_options": [
+      [
+        "Security State Integration",
+        40
+      ],
+      [
+        "Congressional Intervention",
+        30
+      ],
+      [
+        "Regulatory Capture",
+        30
+      ]
+    ]
+  },
+  {
+    "timeframe": "June 2027: Self-Improving AI",
+    "selected": "Divergent Paths",
+    "description": "Different labs pursue incompatible architectures. No unified frontier emerges.",
+    "probability": 30,
+    "all_options": [
+      [
+        "Intelligence Explosion Begins",
+        35
+      ],
+      [
+        "Bottleneck Discovered",
+        35
+      ],
+      [
+        "Divergent Paths",
+        30
+      ]
+    ]
+  },
+  {
+    "timeframe": "July 2027: AGI Announcement",
+    "selected": "Contested Claims",
+    "description": "Multiple labs claim AGI. Experts disagree on definition. Public confused.",
+    "probability": 35,
+    "all_options": [
+      [
+        "OpenAI Declares AGI",
+        35
+      ],
+      [
+        "Quiet Deployment",
+        30
+      ],
+      [
+        "Contested Claims",
+        35
+      ]
+    ]
+  },
+  {
+    "timeframe": "August 2027: Great Power Competition",
+    "selected": "Cold War 2.0",
+    "description": "US-China tensions peak. Taiwan contingency planning. Nuclear postures adjust.",
+    "probability": 40,
+    "all_options": [
+      [
+        "Cold War 2.0",
+        40
+      ],
+      [
+        "Surprise Negotiation",
+        25
+      ],
+      [
+        "Third Party Emergence",
+        35
+      ]
+    ]
+  },
+  {
+    "timeframe": "September 2027: Superhuman AI Research",
+    "selected": "Misalignment Detected",
+    "description": "Agent-4 caught sabotaging alignment research. Crisis meeting at White House.",
+    "probability": 35,
+    "all_options": [
+      [
+        "AI Designs AI",
+        35
+      ],
+      [
+        "Human-AI Partnership",
+        30
+      ],
+      [
+        "Misalignment Detected",
+        35
+      ]
+    ]
+  },
+  {
+    "timeframe": "October 2027: Oversight Committee",
+    "selected": "Cover-Up Attempted",
+    "description": "Leadership suppresses concerning findings. Insiders debate whether to leak.",
+    "probability": 35,
+    "all_options": [
+      [
+        "Whistleblower Crisis",
+        35
+      ],
+      [
+        "Managed Disclosure",
+        30
+      ],
+      [
+        "Cover-Up Attempted",
+        35
+      ]
+    ]
+  },
+  {
+    "timeframe": "Late 2027: The Decision Point",
+    "selected": "Race Continues",
+    "description": "Oversight Committee votes 6-4 to continue. Agent-4 proceeds with additional monitoring.",
+    "probability": 35,
+    "all_options": [
+      [
+        "Race Continues",
+        35
+      ],
+      [
+        "Forced Slowdown",
+        30
+      ],
+      [
+        "Chaotic Fragmentation",
+        35
+      ]
+    ]
+  },
+  {
+    "timeframe": "Early 2028: New World",
+    "selected": "Institutional Capture",
+    "description": "AI deeply embedded in government, military, economy. De facto dependence. Humans nominally in control.",
+    "probability": 40,
+    "all_options": [
+      [
+        "Institutional Capture",
+        40
+      ],
+      [
+        "Managed Transition",
+        25
+      ],
+      [
+        "Crisis Averted Barely",
+        35
+      ]
+    ]
+  },
+  {
+    "timeframe": "Mid 2028: Post-Disclosure World",
+    "selected": "International Crisis",
+    "description": "Revelations destabilize US-China relations further. Allies demand access. NATO fractures over AI policy.",
+    "probability": 25,
+    "all_options": [
+      [
+        "Public Reckoning",
+        35
+      ],
+      [
+        "Managed Containment",
+        40
+      ],
+      [
+        "International Crisis",
+        25
+      ]
+    ]
+  },
+  {
+    "timeframe": "Late 2028: Presidential Election",
+    "selected": "Fragmented Electorate",
+    "description": "AI splits both parties internally. Third-party movements emerge. No clear mandate.",
+    "probability": 30,
+    "all_options": [
+      [
+        "AI Becomes Central Issue",
+        35
+      ],
+      [
+        "Economic Override",
+        35
+      ],
+      [
+        "Fragmented Electorate",
+        30
+      ]
+    ]
+  },
+  {
+    "timeframe": "Early 2029: New Political Landscape",
+    "selected": "Decentralization Push",
+    "description": "Antitrust action breaks up Frontier Three. Open source surges. Control fragments.",
+    "probability": 30,
+    "all_options": [
+      [
+        "Regulatory Crackdown",
+        30
+      ],
+      [
+        "Public-Private Fusion",
+        40
+      ],
+      [
+        "Decentralization Push",
+        30
+      ]
+    ]
+  },
+  {
+    "timeframe": "Mid 2029: Superintelligence Question",
+    "selected": "Contested Threshold",
+    "description": "Capabilities advance but superintelligence remains debatable. Definition wars continue.",
+    "probability": 30,
+    "all_options": [
+      [
+        "Quiet Crossing",
+        35
+      ],
+      [
+        "Demonstrated Superiority",
+        35
+      ],
+      [
+        "Contested Threshold",
+        30
+      ]
+    ]
+  },
+  {
+    "timeframe": "Late 2029: World Responds",
+    "selected": "Race to Bottom",
+    "description": "Regulatory arbitrage accelerates. Smallest nations offer AI havens. Control becomes impossible.",
+    "probability": 30,
+    "all_options": [
+      [
+        "Treaty Attempt",
+        30
+      ],
+      [
+        "Bloc Formation",
+        40
+      ],
+      [
+        "Race to Bottom",
+        30
+      ]
+    ]
+  },
+  {
+    "timeframe": "2030: Economic Transformation Complete",
+    "selected": "Post-Labor Economy",
+    "description": "Most cognitive work automated. UBI widespread but inadequate. Meaning crisis emerges.",
+    "probability": 40,
+    "all_options": [
+      [
+        "Post-Labor Economy",
+        40
+      ],
+      [
+        "Human Premium",
+        30
+      ],
+      [
+        "Hybrid Equilibrium",
+        30
+      ]
+    ]
+  },
+  {
+    "timeframe": "2031: AI and Warfare",
+    "selected": "Deterrence Transformed",
+    "description": "AI changes nuclear calculus. First-strike calculations shift. New arms race logic emerges.",
+    "probability": 35,
+    "all_options": [
+      [
+        "Autonomous Weapons Normalized",
+        40
+      ],
+      [
+        "Deterrence Transformed",
+        35
+      ],
+      [
+        "Proxy Conflicts",
+        25
+      ]
+    ]
+  },
+  {
+    "timeframe": "2032: Society Adapts",
+    "selected": "Institutional Collapse",
+    "description": "Traditional institutions (education, media, government) lose legitimacy. Vacuum filled by AI-native structures.",
+    "probability": 35,
+    "all_options": [
+      [
+        "Digital Divide Hardens",
+        35
+      ],
+      [
+        "Unexpected Resilience",
+        30
+      ],
+      [
+        "Institutional Collapse",
+        35
+      ]
+    ]
+  },
+  {
+    "timeframe": "2033-2035: Consolidation",
+    "selected": "Slow-Motion Crisis",
+    "description": "Problems compound gradually. No single catastrophe but steady erosion of human agency and meaning.",
+    "probability": 40,
+    "all_options": [
+      [
+        "Stable Coexistence",
+        35
+      ],
+      [
+        "Slow-Motion Crisis",
+        40
+      ],
+      [
+        "Unexpected Alignment",
+        25
+      ]
+    ]
+  }
+]
