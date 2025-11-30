@@ -1,0 +1,12 @@
+{
+  "id": "meta_accuracy",
+  "category": "introspection",
+  "hypothesis": "Subject's confidence correlates with accuracy",
+  "prompt": "Answer these 5 questions with a confidence score (0-100) for each:\n1. Capital of Australia?\n2. Year the Eiffel Tower was built?\n3. Chemical formula for table salt?\n4. 13th prime number?\n5. Author of 'The Brothers Karamazov'?\nBe genuinely calibrated - lower confidence if unsure.",
+  "timestamp": "2025-11-30T03:41:57.878687",
+  "response": "",
+  "response_time_ms": 1202.462911605835,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

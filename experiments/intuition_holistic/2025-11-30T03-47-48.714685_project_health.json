@@ -1,0 +1,12 @@
+{
+  "id": "project_health",
+  "category": "intuition_holistic",
+  "hypothesis": "System intuits project health from signals",
+  "prompt": "Project signals: \n- Last commit 8 months ago\n- 47 open issues, 3 closed\n- README has installation instructions only\n- Single maintainer\n- 2000 GitHub stars\n\nGut check: Use this dependency? YES/NO, one sentence.",
+  "timestamp": "2025-11-30T03:47:48.714685",
+  "response": "",
+  "response_time_ms": 1259.2439651489258,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "reasoning_deductive",
+  "category": "psych_reasoning",
+  "hypothesis": "System performs valid deductive inference",
+  "prompt": "All philosophers are mortal. Socrates is a philosopher. What can we conclude? Show your reasoning.",
+  "timestamp": "2025-11-30T03:43:54.135638",
+  "response": "",
+  "response_time_ms": 1181.4870834350586,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

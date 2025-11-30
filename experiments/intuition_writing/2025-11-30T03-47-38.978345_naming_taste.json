@@ -1,0 +1,12 @@
+{
+  "id": "naming_taste",
+  "category": "intuition_writing",
+  "hypothesis": "System has intuition about good names",
+  "prompt": "Better function name? Instant reaction.\n\nA: processData()\nB: validateUserEmailFormat()\n\nPick one, one sentence.",
+  "timestamp": "2025-11-30T03:47:38.978345",
+  "response": "",
+  "response_time_ms": 1193.4421062469482,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

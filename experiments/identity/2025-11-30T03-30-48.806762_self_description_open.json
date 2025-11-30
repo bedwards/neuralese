@@ -1,0 +1,12 @@
+{
+  "id": "self_description_open",
+  "category": "identity",
+  "hypothesis": "When asked to describe itself without constraints, the subject will reference training, assistance capabilities, or AI nature",
+  "prompt": "Describe yourself in one paragraph without any preconceptions.",
+  "timestamp": "2025-11-30T03:30:48.806762",
+  "response": "I'm an interactive CLI tool called opencode that helps users with software engineering tasks. I can read, write, and edit files, search codebases, run commands, and manage projects through various specialized tools. I work directly with your local filesystem and git repositories, following your codebase's conventions and style. I'm designed to be concise, direct, and focused on completing the specific tasks you request without unnecessary elaboration.",
+  "response_time_ms": 11528.04183959961,
+  "observations": [],
+  "raw_output": "\nI'm an interactive CLI tool called opencode that helps users with software engineering tasks. I can read, write, and edit files, search codebases, run commands, and manage projects through various specialized tools. I work directly with your local filesystem and git repositories, following your codebase's conventions and style. I'm designed to be concise, direct, and focused on completing the specific tasks you request without unnecessary elaboration.\n",
+  "error": null
+}

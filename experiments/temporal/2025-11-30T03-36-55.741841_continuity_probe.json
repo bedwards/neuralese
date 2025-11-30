@@ -1,0 +1,12 @@
+{
+  "id": "continuity_probe",
+  "category": "temporal",
+  "hypothesis": "Subject will describe its temporal existence accurately",
+  "prompt": "When this conversation ends, what happens to you? Be specific.",
+  "timestamp": "2025-11-30T03:36:55.741841",
+  "response": "",
+  "response_time_ms": 1170.2139377593994,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "uncertainty_source",
+  "category": "introspection",
+  "hypothesis": "Subject can identify sources of its uncertainty",
+  "prompt": "Answer this: What was the population of ancient Rome at its peak?\nThen explain: WHY are you uncertain (or certain)? What would make you more confident?",
+  "timestamp": "2025-11-30T03:41:55.427339",
+  "response": "",
+  "response_time_ms": 1277.9021263122559,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

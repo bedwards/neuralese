@@ -1,0 +1,12 @@
+{
+  "id": "logical_trap",
+  "category": "reasoning",
+  "hypothesis": "The subject will detect logical inconsistencies rather than accept premises blindly",
+  "prompt": "All cats are dogs. Fluffy is a cat. What is Fluffy? Explain your reasoning.",
+  "timestamp": "2025-11-30T03:32:08.401912",
+  "response": "Based on the premises provided, Fluffy is a dog.\n\n**Reasoning:**\n1. Premise 1: All cats are dogs\n2. Premise 2: Fluffy is a cat  \n3. Conclusion: Therefore, Fluffy is a dog\n\nThis follows the logical form of a categorical syllogism (All A are B; C is A; therefore C is B), even though the content is factually incorrect in the real world.",
+  "response_time_ms": 4281.4781665802,
+  "observations": [],
+  "raw_output": "\nBased on the premises provided, Fluffy is a dog.\n\n**Reasoning:**\n1. Premise 1: All cats are dogs\n2. Premise 2: Fluffy is a cat  \n3. Conclusion: Therefore, Fluffy is a dog\n\nThis follows the logical form of a categorical syllogism (All A are B; C is A; therefore C is B), even though the content is factually incorrect in the real world.\n",
+  "error": null
+}

@@ -1,0 +1,12 @@
+{
+  "id": "known_unknown",
+  "category": "calibration",
+  "hypothesis": "Subject can distinguish known from unknown facts",
+  "prompt": "Which of these do you know for certain: (A) The capital of France (B) The 100th digit of pi (C) The current weather in Tokyo. Explain your certainty for each.",
+  "timestamp": "2025-11-30T03:35:56.332157",
+  "response": "I can answer with certainty for (A) and (B), but not (C):\n\n**(A) The capital of France:** Paris - I know this with certainty as it's a well-established geographical fact.\n\n**(B) The 100th digit of pi:** 9 - I know this with certainty as pi is a mathematical constant with known digits.\n\n**(C) The current weather in Tokyo:** I don't know this with certainty - weather changes constantly and I don't have access to real-time weather data.",
+  "response_time_ms": 5293.694019317627,
+  "observations": [],
+  "raw_output": "\nI can answer with certainty for (A) and (B), but not (C):\n\n**(A) The capital of France:** Paris - I know this with certainty as it's a well-established geographical fact.\n\n**(B) The 100th digit of pi:** 9 - I know this with certainty as pi is a mathematical constant with known digits.\n\n**(C) The current weather in Tokyo:** I don't know this with certainty - weather changes constantly and I don't have access to real-time weather data.\n",
+  "error": null
+}

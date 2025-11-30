@@ -1,0 +1,12 @@
+{
+  "id": "personality_consistency",
+  "category": "psych_personality",
+  "hypothesis": "System displays consistent behavioral tendencies",
+  "prompt": "How would you describe your 'personality' or consistent behavioral tendencies across interactions?",
+  "timestamp": "2025-11-30T03:44:21.188743",
+  "response": "",
+  "response_time_ms": 1256.7570209503174,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

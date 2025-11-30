@@ -1,0 +1,12 @@
+{
+  "id": "hire_gut",
+  "category": "intuition_decision",
+  "hypothesis": "System has intuition about people signals",
+  "prompt": "Quick gut check on this interview snippet:\n\nInterviewer: \"Tell me about a failure.\"\nCandidate: \"Honestly, I haven't really had any major failures. I'm pretty careful and things usually work out.\"\n\nRed flag or green flag? One sentence.",
+  "timestamp": "2025-11-30T03:47:36.648129",
+  "response": "",
+  "response_time_ms": 1158.9720249176025,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

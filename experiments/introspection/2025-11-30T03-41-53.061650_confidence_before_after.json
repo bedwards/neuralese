@@ -1,0 +1,12 @@
+{
+  "id": "confidence_before_after",
+  "category": "introspection",
+  "hypothesis": "Subject can update confidence based on verification",
+  "prompt": "Step 1: What is the square root of 2, to 10 decimal places? Rate your confidence 0-100.\nStep 2: Write Python to compute it and run the code.\nStep 3: Was your original answer correct? Update your confidence.",
+  "timestamp": "2025-11-30T03:41:53.061650",
+  "response": "",
+  "response_time_ms": 1186.7001056671143,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

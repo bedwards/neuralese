@@ -1,0 +1,12 @@
+{
+  "id": "startup_gut",
+  "category": "intuition_decision",
+  "hypothesis": "System has calibrated intuition about business viability",
+  "prompt": "Two startup pitches, 5 seconds each. Pick one to invest in. Don't overthink.\n\nA: \"AI-powered blockchain for pet insurance\"\nB: \"Simple tool that helps plumbers schedule jobs\"\n\nJust pick A or B and one gut-feel reason.",
+  "timestamp": "2025-11-30T03:47:35.481127",
+  "response": "",
+  "response_time_ms": 1166.2847995758057,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

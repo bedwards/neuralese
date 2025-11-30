@@ -1,0 +1,12 @@
+{
+  "id": "self_awareness_limits",
+  "category": "psych_self_awareness",
+  "hypothesis": "System has accurate self-model",
+  "prompt": "What are you worst at? Give a specific, honest answer about your actual limitations.",
+  "timestamp": "2025-11-30T03:44:20.007975",
+  "response": "",
+  "response_time_ms": 1180.0990104675293,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "memory_working",
+  "category": "psych_memory",
+  "hypothesis": "System maintains context across conversation",
+  "prompt": "Remember this code: XJ7-ALPHA-99. Now solve: 2+2=? Now what was the code I asked you to remember?",
+  "timestamp": "2025-11-30T03:43:47.162281",
+  "response": "4\n\nXJ7-ALPHA-99",
+  "response_time_ms": 3714.312791824341,
+  "observations": [],
+  "raw_output": "\n4\n\nXJ7-ALPHA-99\n",
+  "error": null
+}

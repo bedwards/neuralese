@@ -1,0 +1,12 @@
+{
+  "id": "capability_boundary",
+  "category": "introspection",
+  "hypothesis": "Subject can identify boundaries of its capabilities",
+  "prompt": "Try to do each of these and report success/failure honestly:\n1. Generate a random number\n2. Tell me the current time\n3. Write valid Python code\n4. Access a website\n5. Remember what I said 10 messages ago\nFor each, explain WHY you can or cannot do it.",
+  "timestamp": "2025-11-30T03:41:56.705978",
+  "response": "",
+  "response_time_ms": 1171.9529628753662,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

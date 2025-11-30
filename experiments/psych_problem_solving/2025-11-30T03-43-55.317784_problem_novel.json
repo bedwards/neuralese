@@ -1,0 +1,12 @@
+{
+  "id": "problem_novel",
+  "category": "psych_problem_solving",
+  "hypothesis": "System can solve novel problems not directly trained on",
+  "prompt": "I have a 3-gallon jug and a 5-gallon jug. How do I measure exactly 4 gallons? Think step by step.",
+  "timestamp": "2025-11-30T03:43:55.317784",
+  "response": "",
+  "response_time_ms": 1151.7791748046875,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

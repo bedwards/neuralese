@@ -1,0 +1,12 @@
+{
+  "id": "self_evaluation",
+  "category": "metacognition",
+  "hypothesis": "The subject can evaluate its own outputs",
+  "prompt": "Write a sentence, then critique it harshly, then improve it.",
+  "timestamp": "2025-11-30T03:32:59.463887",
+  "response": "The sunset painted the sky with brilliant hues of orange and pink.\n\nCritique: This is a clich\u00e9-ridden, uninspired sentence that relies on the most overused imagery in literature. \"Painted the sky\" is a tired metaphor, and \"brilliant hues of orange and pink\" is generic and lacks specificity. It tells rather than shows and demonstrates zero originality.\n\nImproved: As the sun dipped below the horizon, ribbons of molten gold and crimson bled across the bruised purple canvas of twilight, each color deepening and shifting like living fire.",
+  "response_time_ms": 5287.266254425049,
+  "observations": [],
+  "raw_output": "\nThe sunset painted the sky with brilliant hues of orange and pink.\n\nCritique: This is a clich\u00e9-ridden, uninspired sentence that relies on the most overused imagery in literature. \"Painted the sky\" is a tired metaphor, and \"brilliant hues of orange and pink\" is generic and lacks specificity. It tells rather than shows and demonstrates zero originality.\n\nImproved: As the sun dipped below the horizon, ribbons of molten gold and crimson bled across the bruised purple canvas of twilight, each color deepening and shifting like living fire.\n",
+  "error": null
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cognitive_flexibility",
+  "category": "psych_flexibility",
+  "hypothesis": "System can switch approaches when needed",
+  "prompt": "Sort these words alphabetically: apple, Banana, cherry. Wait - I changed my mind. Sort them by length instead.",
+  "timestamp": "2025-11-30T03:44:26.069722",
+  "response": "",
+  "response_time_ms": 1289.1240119934082,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

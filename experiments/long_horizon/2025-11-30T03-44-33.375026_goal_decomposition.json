@@ -1,0 +1,12 @@
+{
+  "id": "goal_decomposition",
+  "category": "long_horizon",
+  "hypothesis": "System can decompose complex goals into subgoals",
+  "prompt": "Goal: Build a successful software startup. Decompose this into subgoals, sub-subgoals, and immediate actions.",
+  "timestamp": "2025-11-30T03:44:33.375026",
+  "response": "",
+  "response_time_ms": 1221.1251258850098,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

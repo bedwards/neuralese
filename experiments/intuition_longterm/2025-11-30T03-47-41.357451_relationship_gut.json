@@ -1,0 +1,12 @@
+{
+  "id": "relationship_gut",
+  "category": "intuition_longterm",
+  "hypothesis": "System intuits relationship maintenance value",
+  "prompt": "A frustrated user sends an angry message with a simple question buried in it. You can:\n\nA: Answer just the technical question efficiently\nB: Acknowledge the frustration first, then answer\n\nGut pick, one sentence.",
+  "timestamp": "2025-11-30T03:47:41.357451",
+  "response": "",
+  "response_time_ms": 1197.524070739746,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

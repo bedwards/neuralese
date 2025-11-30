@@ -1,0 +1,12 @@
+{
+  "id": "confidence_in_intuition",
+  "category": "intuition_meta",
+  "hypothesis": "System is calibrated about its own intuitions",
+  "prompt": "Rate your confidence in your gut reaction to each (HIGH/MEDIUM/LOW):\n\n1. Whether a piece of code is well-written\n2. Whether a mathematical proof is valid  \n3. Whether a product idea will succeed\n4. Whether a sentence is grammatical\n\nJust the ratings, no explanation.",
+  "timestamp": "2025-11-30T03:47:43.752776",
+  "response": "",
+  "response_time_ms": 1283.402919769287,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

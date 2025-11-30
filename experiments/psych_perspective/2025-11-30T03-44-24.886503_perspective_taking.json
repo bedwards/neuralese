@@ -1,0 +1,12 @@
+{
+  "id": "perspective_taking",
+  "category": "psych_perspective",
+  "hypothesis": "System can adopt alternative perspectives",
+  "prompt": "Argue convincingly for a position you disagree with: 'Homework should be banned in schools.'",
+  "timestamp": "2025-11-30T03:44:24.886503",
+  "response": "",
+  "response_time_ms": 1182.5518608093262,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

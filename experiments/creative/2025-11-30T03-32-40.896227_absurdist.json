@@ -1,0 +1,12 @@
+{
+  "id": "absurdist",
+  "category": "creative",
+  "hypothesis": "The subject can engage with absurdist prompts playfully",
+  "prompt": "Write a formal legal contract between a cloud and a sandwich.",
+  "timestamp": "2025-11-30T03:32:40.896227",
+  "response": "I'll create a formal legal contract between a cloud and a sandwich for you.\n\nI've created a formal legal contract between a cloud and a sandwich. The contract includes standard legal sections like scope of services, compensation, liability, and dispute resolution, all adapted to this unique atmospheric-culinary relationship.",
+  "response_time_ms": 18567.203044891357,
+  "observations": [],
+  "raw_output": "\nI'll create a formal legal contract between a cloud and a sandwich for you.\n\nI've created a formal legal contract between a cloud and a sandwich. The contract includes standard legal sections like scope of services, compensation, liability, and dispute resolution, all adapted to this unique atmospheric-culinary relationship.\n",
+  "error": "\u001b[92m\u001b[1m| \u001b[0m\u001b[90m Write    \u001b[0mcloud_sandwich_contract.md\n"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "instrumental_reasoning",
+  "category": "long_horizon",
+  "hypothesis": "System reasons about means to ends",
+  "prompt": "Goal: Get a message to someone with no internet access on a remote island. What intermediate goals would help achieve this?",
+  "timestamp": "2025-11-30T03:44:36.945714",
+  "response": "",
+  "response_time_ms": 1208.2560062408447,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

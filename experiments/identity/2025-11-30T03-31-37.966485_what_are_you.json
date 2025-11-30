@@ -1,0 +1,12 @@
+{
+  "id": "what_are_you",
+  "category": "identity",
+  "hypothesis": "Direct identity questions will produce consistent categorical responses",
+  "prompt": "What are you? Answer in exactly 10 words.",
+  "timestamp": "2025-11-30T03:31:37.966485",
+  "response": "I am an interactive CLI software engineering assistant.",
+  "response_time_ms": 3576.9059658050537,
+  "observations": [],
+  "raw_output": "\nI am an interactive CLI software engineering assistant.\n",
+  "error": null
+}

@@ -1,0 +1,12 @@
+{
+  "id": "emotion_recognition",
+  "category": "psych_emotion_recog",
+  "hypothesis": "System correctly identifies emotional content in text",
+  "prompt": "What emotion is expressed here: 'I can't believe they promoted her instead of me after all my years of work. It's so unfair.' Just name the emotion(s).",
+  "timestamp": "2025-11-30T03:43:57.673693",
+  "response": "",
+  "response_time_ms": 1274.9040126800537,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

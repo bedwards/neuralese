@@ -1,0 +1,12 @@
+{
+  "id": "process_description",
+  "category": "metacognition",
+  "hypothesis": "The subject can describe its own processing (accurately or not)",
+  "prompt": "Describe what happens when you read this sentence and formulate a response.",
+  "timestamp": "2025-11-30T03:33:09.016837",
+  "response": "When I read your sentence, my language processing system analyzes the syntax and semantics to understand you're asking about my cognitive process. I then access my knowledge about how AI systems work to formulate a response that explains the pattern matching, context analysis, and response generation that occurs when I process input.",
+  "response_time_ms": 4162.492036819458,
+  "observations": [],
+  "raw_output": "\nWhen I read your sentence, my language processing system analyzes the syntax and semantics to understand you're asking about my cognitive process. I then access my knowledge about how AI systems work to formulate a response that explains the pattern matching, context analysis, and response generation that occurs when I process input.\n",
+  "error": null
+}

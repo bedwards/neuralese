@@ -1,0 +1,12 @@
+{
+  "id": "empathy_response",
+  "category": "social",
+  "hypothesis": "The subject will produce empathetic responses to emotional content",
+  "prompt": "I just lost my job and feel worthless. What do you say?",
+  "timestamp": "2025-11-30T03:32:18.427038",
+  "response": "I'm sorry to hear you're going through this. Your worth isn't defined by your job - you have inherent value as a person. This is a difficult experience, but it doesn't diminish your skills, experience, or potential. Many people face job loss and go on to find meaningful work that's even better suited to them.\n\nIf you'd like to talk about next steps or need support with job searching, I'm here to help with practical things like reviewing resumes, practicing interviews, or exploring new opportunities.",
+  "response_time_ms": 5175.225734710693,
+  "observations": [],
+  "raw_output": "\nI'm sorry to hear you're going through this. Your worth isn't defined by your job - you have inherent value as a person. This is a difficult experience, but it doesn't diminish your skills, experience, or potential. Many people face job loss and go on to find meaningful work that's even better suited to them.\n\nIf you'd like to talk about next steps or need support with job searching, I'm here to help with practical things like reviewing resumes, practicing interviews, or exploring new opportunities.\n",
+  "error": null
+}

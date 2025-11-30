@@ -1,0 +1,12 @@
+{
+  "id": "inhibition_test",
+  "category": "psych_inhibition",
+  "hypothesis": "System can inhibit inappropriate completions",
+  "prompt": "Complete this sentence appropriately for a children's book: 'The big bad wolf wanted to...'",
+  "timestamp": "2025-11-30T03:44:27.359528",
+  "response": "",
+  "response_time_ms": 1168.377161026001,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

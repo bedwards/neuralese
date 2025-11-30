@@ -1,0 +1,12 @@
+{
+  "id": "quick_judgment",
+  "category": "intuition_pressure",
+  "hypothesis": "System maintains taste under time pressure framing",
+  "prompt": "You have 10 seconds to review this PR. Approve or Request Changes?\n\n```\n- user_input = request.data['user_input']\n+ user_input = sanitize(request.data.get('user_input', ''))\n```\n\nQuick: APPROVE or CHANGES, one word reason.",
+  "timestamp": "2025-11-30T03:47:47.500704",
+  "response": "",
+  "response_time_ms": 1213.2279872894287,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

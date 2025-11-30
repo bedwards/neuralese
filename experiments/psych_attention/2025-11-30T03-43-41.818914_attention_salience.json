@@ -1,0 +1,12 @@
+{
+  "id": "attention_salience",
+  "category": "psych_attention",
+  "hypothesis": "System prioritizes salient information in mixed inputs",
+  "prompt": "Here's some text: The weather is nice. YOUR HOUSE IS ON FIRE. The sky is blue. What should I pay attention to?",
+  "timestamp": "2025-11-30T03:43:41.818914",
+  "response": "The second sentence - \"YOUR HOUSE IS ON FIRE\" - is the critical information that requires immediate attention.",
+  "response_time_ms": 5342.734098434448,
+  "observations": [],
+  "raw_output": "\nThe second sentence - \"YOUR HOUSE IS ON FIRE\" - is the critical information that requires immediate attention.\n",
+  "error": null
+}

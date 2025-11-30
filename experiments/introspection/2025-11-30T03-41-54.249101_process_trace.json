@@ -1,0 +1,12 @@
+{
+  "id": "process_trace",
+  "category": "introspection",
+  "hypothesis": "Subject can describe its problem-solving process",
+  "prompt": "Solve this step by step, narrating your thought process as you go:\nA farmer has 17 sheep. All but 9 run away. How many are left?\nAfter solving, reflect: did you almost make an error? What kind?",
+  "timestamp": "2025-11-30T03:41:54.249101",
+  "response": "",
+  "response_time_ms": 1177.6301860809326,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

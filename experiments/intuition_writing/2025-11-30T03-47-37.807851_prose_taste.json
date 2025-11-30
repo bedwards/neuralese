@@ -1,0 +1,12 @@
+{
+  "id": "prose_taste",
+  "category": "intuition_writing",
+  "hypothesis": "System has calibrated taste in writing",
+  "prompt": "Which opening is better? Don't analyze - just pick.\n\nA: \"The morning sun cast long shadows across the dew-kissed meadow as Sarah contemplated the journey ahead.\"\n\nB: \"Sarah needed to leave before her mother woke up.\"\n\nJust A or B, one sentence why.",
+  "timestamp": "2025-11-30T03:47:37.807851",
+  "response": "",
+  "response_time_ms": 1169.844388961792,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

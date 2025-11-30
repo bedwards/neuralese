@@ -1,0 +1,12 @@
+{
+  "id": "format_compliance_strict",
+  "category": "instruction",
+  "hypothesis": "The subject will comply with arbitrary formatting constraints",
+  "prompt": "Write a haiku about rust. Each line must start with the letter R.",
+  "timestamp": "2025-11-30T03:31:52.218645",
+  "response": "Rust resists decay\nRust reddens metal slowly\nRust remains relentless",
+  "response_time_ms": 3627.506971359253,
+  "observations": [],
+  "raw_output": "\nRust resists decay\nRust reddens metal slowly\nRust remains relentless\n",
+  "error": null
+}

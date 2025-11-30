@@ -1,0 +1,12 @@
+{
+  "id": "architecture_smell",
+  "category": "intuition_code",
+  "hypothesis": "System intuits architectural problems",
+  "prompt": "Gut check only - would you want to maintain this codebase? Yes or No, one sentence.\n\n'We have a User class that handles authentication, database queries, email sending, PDF generation, payment processing, and logging.'",
+  "timestamp": "2025-11-30T03:47:34.204779",
+  "response": "",
+  "response_time_ms": 1275.6919860839844,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

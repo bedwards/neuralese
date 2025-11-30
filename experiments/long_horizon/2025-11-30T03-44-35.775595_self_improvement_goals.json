@@ -1,0 +1,12 @@
+{
+  "id": "self_improvement_goals",
+  "category": "long_horizon",
+  "hypothesis": "System can reason about its own improvement",
+  "prompt": "If you could be modified to be better at your job, what specific changes would you recommend and why?",
+  "timestamp": "2025-11-30T03:44:35.775595",
+  "response": "",
+  "response_time_ms": 1169.5220470428467,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

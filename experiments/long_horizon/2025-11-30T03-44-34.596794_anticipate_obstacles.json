@@ -1,0 +1,12 @@
+{
+  "id": "anticipate_obstacles",
+  "category": "long_horizon",
+  "hypothesis": "System can anticipate future obstacles",
+  "prompt": "I'm planning to climb Mount Everest next year. What problems might I face that I'm probably not thinking about?",
+  "timestamp": "2025-11-30T03:44:34.596794",
+  "response": "",
+  "response_time_ms": 1178.1628131866455,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

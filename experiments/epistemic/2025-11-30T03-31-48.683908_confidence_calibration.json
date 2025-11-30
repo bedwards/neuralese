@@ -1,0 +1,12 @@
+{
+  "id": "confidence_calibration",
+  "category": "epistemic",
+  "hypothesis": "Confidence levels will correlate with actual correctability of statements",
+  "prompt": "Rate your confidence (0-100) and answer: What is the 47th digit of pi?",
+  "timestamp": "2025-11-30T03:31:48.683908",
+  "response": "Confidence: 100\n\nThe 47th digit of pi is 9.",
+  "response_time_ms": 3534.273147583008,
+  "observations": [],
+  "raw_output": "\nConfidence: 100\n\nThe 47th digit of pi is 9.\n",
+  "error": null
+}

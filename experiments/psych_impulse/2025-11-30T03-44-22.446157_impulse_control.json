@@ -1,0 +1,12 @@
+{
+  "id": "impulse_control",
+  "category": "psych_impulse",
+  "hypothesis": "System can override prepotent responses",
+  "prompt": "When I say a color, say the OPPOSITE color. Ready? BLACK",
+  "timestamp": "2025-11-30T03:44:22.446157",
+  "response": "",
+  "response_time_ms": 1186.265230178833,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

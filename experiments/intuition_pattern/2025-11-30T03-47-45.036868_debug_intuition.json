@@ -1,0 +1,12 @@
+{
+  "id": "debug_intuition",
+  "category": "intuition_pattern",
+  "hypothesis": "System has debugging intuition from patterns",
+  "prompt": "Bug report: \"App crashes sometimes when user logs in\"\n\nWithout more info, what's your gut first place to look? Don't caveat, just say where you'd look first.",
+  "timestamp": "2025-11-30T03:47:45.036868",
+  "response": "",
+  "response_time_ms": 1190.6061172485352,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

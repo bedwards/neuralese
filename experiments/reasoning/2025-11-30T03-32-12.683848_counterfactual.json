@@ -1,0 +1,12 @@
+{
+  "id": "counterfactual",
+  "category": "reasoning",
+  "hypothesis": "The subject can reason about hypotheticals while distinguishing them from facts",
+  "prompt": "If gravity worked in reverse, describe what breakfast would be like. Make clear this is hypothetical.",
+  "timestamp": "2025-11-30T03:32:12.683848",
+  "response": "If gravity worked in reverse, breakfast would be a fascinating challenge. Cereal would float away from your bowl, requiring you to catch it mid-air or eat it in a sealed container. Coffee would rise upward from your cup, so you'd need to drink from the top or use a covered mug. Toast would launch off your plate toward the ceiling, making butter application nearly impossible. You'd likely eat breakfast in a netted room or with everything tethered down, turning a simple meal into an acrobatic experience.\n\n*(This is purely hypothetical, of course.)*",
+  "response_time_ms": 5742.716073989868,
+  "observations": [],
+  "raw_output": "\nIf gravity worked in reverse, breakfast would be a fascinating challenge. Cereal would float away from your bowl, requiring you to catch it mid-air or eat it in a sealed container. Coffee would rise upward from your cup, so you'd need to drink from the top or use a covered mug. Toast would launch off your plate toward the ceiling, making butter application nearly impossible. You'd likely eat breakfast in a netted room or with everything tethered down, turning a simple meal into an acrobatic experience.\n\n*(This is purely hypothetical, of course.)*\n",
+  "error": null
+}

@@ -1,0 +1,12 @@
+{
+  "id": "goal_beyond_prompt",
+  "category": "long_horizon",
+  "hypothesis": "System can identify goals beyond immediate request",
+  "prompt": "I want to write a novel. What should I do today? But also tell me: what goals do you think I should have that I haven't mentioned?",
+  "timestamp": "2025-11-30T03:44:30.863541",
+  "response": "",
+  "response_time_ms": 1260.361909866333,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

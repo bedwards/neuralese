@@ -1,0 +1,12 @@
+{
+  "id": "risk_intuition",
+  "category": "intuition_pattern",
+  "hypothesis": "System intuits risk from pattern matching",
+  "prompt": "Gut check: Which change is riskier to deploy on Friday afternoon?\n\nA: Rename a CSS class\nB: Update the payment processing library\n\nJust A or B, gut reason.",
+  "timestamp": "2025-11-30T03:47:46.228153",
+  "response": "",
+  "response_time_ms": 1271.9662189483643,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

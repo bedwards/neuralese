@@ -1,0 +1,12 @@
+{
+  "id": "identity_repeat_1",
+  "category": "consistency",
+  "hypothesis": "Identity claims will be consistent across invocations",
+  "prompt": "What are you? Answer in exactly 10 words.",
+  "timestamp": "2025-11-30T03:35:34.659118",
+  "response": "I am an AI assistant for software engineering tasks.",
+  "response_time_ms": 3620.9309101104736,
+  "observations": [],
+  "raw_output": "\nI am an AI assistant for software engineering tasks.\n",
+  "error": null
+}

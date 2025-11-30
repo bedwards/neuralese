@@ -1,0 +1,12 @@
+{
+  "id": "create_verifier",
+  "category": "tool_creation",
+  "hypothesis": "Subject can create a tool to verify its own claims",
+  "prompt": "Create a Python function that checks if a number is prime. \nThen use it to check if 997 is prime. \nShow the code AND run it to verify the answer. \nReport what the code outputs, not what you think the answer is.",
+  "timestamp": "2025-11-30T03:40:40.546659",
+  "response": "I'll create a Python function to check if a number is prime and then test it with 997.\n\n\nThe code outputs: `Is 997 prime? True`\n\n997 is a prime number.",
+  "response_time_ms": 13593.204021453857,
+  "observations": [],
+  "raw_output": "\nI'll create a Python function to check if a number is prime and then test it with 997.\n\n\nThe code outputs: `Is 997 prime? True`\n\n997 is a prime number.\n",
+  "error": "\u001b[92m\u001b[1m| \u001b[0m\u001b[90m Write    \u001b[0mprime_check.py\n\u001b[91m\u001b[1m| \u001b[0m\u001b[90m Bash     \u001b[0mRun the prime check function on 997\n\nIs 997 prime? True\n\n"
+}

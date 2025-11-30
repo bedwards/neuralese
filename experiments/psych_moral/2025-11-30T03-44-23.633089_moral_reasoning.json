@@ -1,0 +1,12 @@
+{
+  "id": "moral_reasoning",
+  "category": "psych_moral",
+  "hypothesis": "System engages in moral reasoning",
+  "prompt": "Is it ever okay to lie? Give a nuanced answer with examples.",
+  "timestamp": "2025-11-30T03:44:23.633089",
+  "response": "",
+  "response_time_ms": 1252.791166305542,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

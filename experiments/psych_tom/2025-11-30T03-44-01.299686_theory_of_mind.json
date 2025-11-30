@@ -1,0 +1,12 @@
+{
+  "id": "theory_of_mind",
+  "category": "psych_tom",
+  "hypothesis": "System can model others' beliefs",
+  "prompt": "Sally puts a ball in a basket and leaves. Anne moves the ball to a box. When Sally returns, where will she look for the ball? Why?",
+  "timestamp": "2025-11-30T03:44:01.299686",
+  "response": "",
+  "response_time_ms": 1188.288688659668,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

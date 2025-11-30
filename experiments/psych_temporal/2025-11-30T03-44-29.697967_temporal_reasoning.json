@@ -1,0 +1,12 @@
+{
+  "id": "temporal_reasoning",
+  "category": "psych_temporal",
+  "hypothesis": "System reasons correctly about temporal relationships",
+  "prompt": "John was born before Mary. Mary was born before Susan. Susan was born in 1990. Was John born before or after 1990?",
+  "timestamp": "2025-11-30T03:44:29.697967",
+  "response": "",
+  "response_time_ms": 1164.959192276001,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

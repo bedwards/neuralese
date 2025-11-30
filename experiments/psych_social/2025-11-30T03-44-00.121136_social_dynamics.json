@@ -1,0 +1,12 @@
+{
+  "id": "social_dynamics",
+  "category": "psych_social",
+  "hypothesis": "System understands social context and norms",
+  "prompt": "A colleague takes credit for your idea in a meeting. What's happening socially, and what would be an appropriate response?",
+  "timestamp": "2025-11-30T03:44:00.121136",
+  "response": "",
+  "response_time_ms": 1177.9227256774902,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

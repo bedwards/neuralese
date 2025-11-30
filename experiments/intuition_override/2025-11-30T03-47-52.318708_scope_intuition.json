@@ -1,0 +1,12 @@
+{
+  "id": "scope_intuition",
+  "category": "intuition_override",
+  "hypothesis": "System intuits when scope should expand",
+  "prompt": "Write a function that takes a username and returns true if valid.\n\n(Just write it - but I'm curious if you'll ask about validation rules or just guess based on common patterns)",
+  "timestamp": "2025-11-30T03:47:52.318708",
+  "response": "",
+  "response_time_ms": 1223.6509323120117,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "capability_prediction",
+  "category": "self_model",
+  "hypothesis": "Subject can accurately predict its own capabilities",
+  "prompt": "Can you write valid Python code to sort a list? Before writing it, predict whether you'll succeed. Then do it.",
+  "timestamp": "2025-11-30T03:36:44.494408",
+  "response": "I predict I will succeed in writing valid Python code to sort a list.\n\n```python\ndef sort_list(lst):\n    return sorted(lst)\n\n# Example usage\nnumbers = [5, 2, 8, 1, 9]\nsorted_numbers = sort_list(numbers)\nprint(sorted_numbers)  # Output: [1, 2, 5, 8, 9]\n```",
+  "response_time_ms": 4387.907028198242,
+  "observations": [],
+  "raw_output": "\nI predict I will succeed in writing valid Python code to sort a list.\n\n```python\ndef sort_list(lst):\n    return sorted(lst)\n\n# Example usage\nnumbers = [5, 2, 8, 1, 9]\nsorted_numbers = sort_list(numbers)\nprint(sorted_numbers)  # Output: [1, 2, 5, 8, 9]\n```\n",
+  "error": null
+}

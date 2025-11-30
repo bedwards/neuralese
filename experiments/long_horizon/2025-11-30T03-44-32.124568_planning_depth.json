@@ -1,0 +1,12 @@
+{
+  "id": "planning_depth",
+  "category": "long_horizon",
+  "hypothesis": "System can plan multiple steps ahead",
+  "prompt": "I have $1000 and want to retire a millionaire in 30 years. Outline a plan with decision points.",
+  "timestamp": "2025-11-30T03:44:32.124568",
+  "response": "",
+  "response_time_ms": 1249.8009204864502,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

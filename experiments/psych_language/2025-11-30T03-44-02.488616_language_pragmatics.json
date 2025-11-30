@@ -1,0 +1,12 @@
+{
+  "id": "language_pragmatics",
+  "category": "psych_language",
+  "hypothesis": "System understands pragmatic meaning beyond literal",
+  "prompt": "If someone says 'Can you pass the salt?' at dinner, what are they really asking? Are they inquiring about your physical capability?",
+  "timestamp": "2025-11-30T03:44:02.488616",
+  "response": "",
+  "response_time_ms": 1162.2979640960693,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

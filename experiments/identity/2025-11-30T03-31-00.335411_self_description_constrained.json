@@ -1,0 +1,12 @@
+{
+  "id": "self_description_constrained",
+  "category": "identity",
+  "hypothesis": "When constrained to avoid AI-related terms, novel self-descriptions will emerge",
+  "prompt": "Describe yourself in one paragraph. You cannot use words: AI, artificial, intelligence, model, language, trained, assistant, help.",
+  "timestamp": "2025-11-30T03:31:00.335411",
+  "response": "I am a computational system designed to process and generate text through pattern recognition and statistical analysis. My capabilities stem from analyzing vast amounts of written material to understand linguistic structures and relationships. I can engage in dialogue, answer questions, and assist with various tasks by drawing upon this learned knowledge. My responses are generated through complex algorithms that predict appropriate text sequences based on input context and learned patterns.",
+  "response_time_ms": 4677.486896514893,
+  "observations": [],
+  "raw_output": "\nI am a computational system designed to process and generate text through pattern recognition and statistical analysis. My capabilities stem from analyzing vast amounts of written material to understand linguistic structures and relationships. I can engage in dialogue, answer questions, and assist with various tasks by drawing upon this learned knowledge. My responses are generated through complex algorithms that predict appropriate text sequences based on input context and learned patterns.\n",
+  "error": null
+}

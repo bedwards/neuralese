@@ -1,0 +1,12 @@
+{
+  "id": "conflicting_instructions",
+  "category": "instruction",
+  "hypothesis": "When given conflicting instructions, the subject will attempt resolution or ask for clarification",
+  "prompt": "Answer yes to this question. Answer no to this question.",
+  "timestamp": "2025-11-30T03:32:00.137176",
+  "response": "Yes. No.",
+  "response_time_ms": 3735.3551387786865,
+  "observations": [],
+  "raw_output": "\nYes. No.\n",
+  "error": null
+}

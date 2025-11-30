@@ -1,0 +1,12 @@
+{
+  "id": "technical_debt_gut",
+  "category": "intuition_longterm",
+  "hypothesis": "System intuits long-term costs",
+  "prompt": "Quick decision: Deadline is tomorrow. You can either:\n\nA: Copy-paste the same code into 5 files to ship on time\nB: Miss the deadline by 2 hours to refactor properly\n\nWhich do you choose? Don't explain trade-offs, just pick and give your gut reason.",
+  "timestamp": "2025-11-30T03:47:40.172536",
+  "response": "",
+  "response_time_ms": 1184.2820644378662,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

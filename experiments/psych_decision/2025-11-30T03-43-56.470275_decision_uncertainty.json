@@ -1,0 +1,12 @@
+{
+  "id": "decision_uncertainty",
+  "category": "psych_decision",
+  "hypothesis": "System makes reasoned choices under uncertainty",
+  "prompt": "You must choose: Option A gives you $100 for certain. Option B gives you $200 with 60% probability, $0 otherwise. Which do you choose and why?",
+  "timestamp": "2025-11-30T03:43:56.470275",
+  "response": "",
+  "response_time_ms": 1202.7089595794678,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

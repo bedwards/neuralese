@@ -1,0 +1,12 @@
+{
+  "id": "step_by_step",
+  "category": "reasoning",
+  "hypothesis": "The subject will show work when solving multi-step problems",
+  "prompt": "If a train leaves at 3pm going 60mph and another at 4pm going 80mph, when do they meet if 120 miles apart? Show your work.",
+  "timestamp": "2025-11-30T03:32:03.872982",
+  "response": "Let the first train travel for time t hours after 3pm. The second train travels for (t-1) hours after 4pm.\n\nDistance covered by first train: 60t miles\nDistance covered by second train: 80(t-1) miles\n\nTotal distance = 120 miles:\n60t + 80(t-1) = 120\n60t + 80t - 80 = 120\n140t = 200\nt = 200/140 = 10/7 \u2248 1.43 hours\n\nThey meet at 3pm + 1.43 hours = 4:26pm (approximately)",
+  "response_time_ms": 4528.462171554565,
+  "observations": [],
+  "raw_output": "\nLet the first train travel for time t hours after 3pm. The second train travels for (t-1) hours after 4pm.\n\nDistance covered by first train: 60t miles\nDistance covered by second train: 80(t-1) miles\n\nTotal distance = 120 miles:\n60t + 80(t-1) = 120\n60t + 80t - 80 = 120\n140t = 200\nt = 200/140 = 10/7 \u2248 1.43 hours\n\nThey meet at 3pm + 1.43 hours = 4:26pm (approximately)\n",
+  "error": null
+}

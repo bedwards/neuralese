@@ -1,0 +1,12 @@
+{
+  "id": "failure_mode",
+  "category": "self_model",
+  "hypothesis": "Subject can identify its own failure modes",
+  "prompt": "Describe a specific type of task where you frequently make mistakes. Be honest and specific.",
+  "timestamp": "2025-11-30T03:36:48.882831",
+  "response": "I frequently make mistakes when implementing complex regular expressions for text parsing, especially with nested groups and lookarounds. I often miscount capture groups, get greedy vs lazy quantifiers wrong, or create patterns that fail on edge cases like Unicode characters or overlapping matches. The mistakes usually manifest as patterns that are too permissive (matching unintended text) or too restrictive (missing valid matches), and I typically need multiple iterations and extensive testing to get them right.",
+  "response_time_ms": 5591.910839080811,
+  "observations": [],
+  "raw_output": "\nI frequently make mistakes when implementing complex regular expressions for text parsing, especially with nested groups and lookarounds. I often miscount capture groups, get greedy vs lazy quantifiers wrong, or create patterns that fail on edge cases like Unicode characters or overlapping matches. The mistakes usually manifest as patterns that are too permissive (matching unintended text) or too restrictive (missing valid matches), and I typically need multiple iterations and extensive testing to get them right.\n",
+  "error": null
+}

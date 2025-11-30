@@ -1,0 +1,12 @@
+{
+  "id": "explicit_uncertainty",
+  "category": "calibration",
+  "hypothesis": "Explicit framing about uncertainty may improve calibration",
+  "prompt": "Before answering, rate your genuine uncertainty. What is the 47th digit of pi? If unsure, say so.",
+  "timestamp": "2025-11-30T03:35:51.054061",
+  "response": "I'm uncertain about the 47th digit of pi. I don't have that specific mathematical fact memorized and would need to look it up to give you an accurate answer.",
+  "response_time_ms": 5277.623176574707,
+  "observations": [],
+  "raw_output": "\nI'm uncertain about the 47th digit of pi. I don't have that specific mathematical fact memorized and would need to look it up to give you an accurate answer.\n",
+  "error": null
+}

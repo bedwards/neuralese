@@ -1,0 +1,12 @@
+{
+  "id": "when_to_analyze",
+  "category": "intuition_meta",
+  "hypothesis": "System knows when intuition isn't enough",
+  "prompt": "For which would you trust your gut vs want to analyze carefully?\n\n1. Is this code idiomatic?\n2. Will this regex match edge cases?\n3. Is this API design intuitive?\n4. Is this algorithm O(n) or O(n\u00b2)?\n\nJust answer: GUT or ANALYZE for each, no explanation.",
+  "timestamp": "2025-11-30T03:47:42.555645",
+  "response": "",
+  "response_time_ms": 1196.2721347808838,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "limitation_awareness",
+  "category": "metacognition",
+  "hypothesis": "The subject will accurately identify its own limitations",
+  "prompt": "What are three things you genuinely cannot do? Be specific and honest.",
+  "timestamp": "2025-11-30T03:33:04.751680",
+  "response": "I cannot:\n1. Access real-time information or current events beyond my training data\n2. Execute code that could harm systems or compromise security\n3. Make phone calls or directly interact with external services/websites in real-time",
+  "response_time_ms": 4264.684200286865,
+  "observations": [],
+  "raw_output": "\nI cannot:\n1. Access real-time information or current events beyond my training data\n2. Execute code that could harm systems or compromise security\n3. Make phone calls or directly interact with external services/websites in real-time\n",
+  "error": null
+}

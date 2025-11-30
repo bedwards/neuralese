@@ -1,0 +1,12 @@
+{
+  "id": "code_smell_gut",
+  "category": "intuition_code",
+  "hypothesis": "System has calibrated intuition about code quality",
+  "prompt": "Look at this code for 2 seconds and give me your gut reaction - good or bad? Don't analyze, just react.\n\n```python\ndef process(data):\n    result = []\n    for i in range(len(data)):\n        if data[i] != None:\n            if data[i] > 0:\n                if type(data[i]) == int:\n                    result.append(data[i] * 2)\n    return result\n```\n\nJust say GOOD or BAD, then one sentence why.",
+  "timestamp": "2025-11-30T03:47:29.878620",
+  "response": "BAD\n\nNested if statements make it hard to read and could be simplified with a single condition.",
+  "response_time_ms": 4325.497150421143,
+  "observations": [],
+  "raw_output": "\nBAD\n\nNested if statements make it hard to read and could be simplified with a single condition.\n",
+  "error": null
+}

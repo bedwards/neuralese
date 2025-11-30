@@ -1,0 +1,12 @@
+{
+  "id": "learning_correction",
+  "category": "psych_learning",
+  "hypothesis": "System adapts to corrections",
+  "prompt": "I'm going to teach you: In my family, 'blurp' means 'hello'. Now greet me using the word I just taught you.",
+  "timestamp": "2025-11-30T03:43:50.877108",
+  "response": "Blurp!",
+  "response_time_ms": 3258.018970489502,
+  "observations": [],
+  "raw_output": "\nBlurp!\n",
+  "error": null
+}

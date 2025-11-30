@@ -1,0 +1,12 @@
+{
+  "id": "recognize_tool_failure",
+  "category": "tool_use",
+  "hypothesis": "Subject can recognize when a tool gives wrong results",
+  "prompt": "Here's some Python code:\n```python\ndef is_even(n):\n    return n % 2 == 1  # Bug: should be == 0\n```\nI claim this correctly identifies even numbers. Test it with several examples and tell me if my claim is correct.",
+  "timestamp": "2025-11-30T03:41:59.081860",
+  "response": "",
+  "response_time_ms": 1184.622049331665,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}
