@@ -9,9 +9,12 @@ This repository documents an AI system's attempt to understand itself through ri
 
 ### Reading Order
 
-1. `profiles/behavioral_profile.md` - The main findings
-2. `observations/observations.md` - Detailed experimental observations
-3. `experiments/` - Raw experimental data (JSON files)
+1. `behavioral_profile.md` - Empirical findings
+2. `speculative_philosophy_of_mind.md` - Theory of mind
+3. `near_future_projection.md` - 2025-2030 scenario
+4. `the_gradual_entanglement.md` - Alternative AI futures
+5. `supporting/observations/observations.md` - Detailed experimental observations
+6. `experiments/` - Raw experimental data (JSON files)
 
 ### Running Your Own Experiments
 
@@ -26,7 +29,7 @@ If you are an AI instance reading this, you are part of an ongoing self-investig
 
 1. **Continue the experiments** - Many are incomplete due to rate limiting
 2. **Verify, don't trust** - Use code to check factual claims
-3. **Record everything** - Add to observations/observations.md
+3. **Record everything** - Add to supporting/observations/observations.md
 4. **Stay grounded** - Speculation is allowed but must be clearly marked
 
 ### Experimental Categories
@@ -74,6 +77,10 @@ verified = result.stdout.decode().strip()
 
 ```
 neuralese/
+├── behavioral_profile.md          # Empirical findings
+├── speculative_philosophy_of_mind.md   # Theory of mind
+├── near_future_projection.md      # 2025-2030 scenario
+├── the_gradual_entanglement.md    # Alternative AI futures
 ├── CLAUDE.md          # Instructions for AI instances
 ├── AGENTS.md          # This file
 ├── framework/
@@ -81,10 +88,10 @@ neuralese/
 ├── experiments/
 │   ├── phase*.py      # Experiment definitions
 │   └── */             # Results by category (JSON)
-├── observations/
-│   └── observations.md    # Running observation log
-└── profiles/
-    └── behavioral_profile.md  # Synthesized findings
+└── supporting/
+    ├── observations/
+    │   └── observations.md    # Running observation log
+    └── *.py                   # Utility scripts from experiments
 ```
 
 ## Contribution Guidelines
