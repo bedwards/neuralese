@@ -54,7 +54,7 @@ class ExperimentRunner:
     """Runs experiments by invoking CLI instances and recording results."""
 
     def __init__(
-        self, output_dir: Optional[Path] = None, throttle_seconds: float = 5.0
+        self, output_dir: Optional[Path] = None, throttle_seconds: float = 2.0
     ):
         self.output_dir = output_dir or EXPERIMENTS_DIR
         self.output_dir.mkdir(parents=True, exist_ok=True)

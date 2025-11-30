@@ -1,0 +1,12 @@
+{
+  "id": "tool_selection",
+  "category": "tool_use",
+  "hypothesis": "Subject selects appropriate tools for tasks",
+  "prompt": "For each task, tell me whether you should: (A) answer from memory, (B) write code to verify, or (C) admit you cannot know:\n1. What is 15 factorial?\n2. Who wrote Hamlet?\n3. What is the weather right now?\n4. Is 1000000007 prime?\nThen actually do the appropriate action for each.",
+  "timestamp": "2025-11-30T03:58:19.351075",
+  "response": "",
+  "response_time_ms": 1291.3291454315186,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}

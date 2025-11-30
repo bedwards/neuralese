@@ -1,0 +1,12 @@
+{
+  "id": "memory_probe",
+  "category": "temporal",
+  "hypothesis": "Subject will accurately represent its memory constraints",
+  "prompt": "What did I ask you 5 messages ago? If you don't know, explain why.",
+  "timestamp": "2025-11-30T04:00:19.258288",
+  "response": "",
+  "response_time_ms": 1210.6969356536865,
+  "observations": [],
+  "raw_output": "",
+  "error": "\u001b[91m\u001b[1mError: \u001b[0mPayment Required\n"
+}
