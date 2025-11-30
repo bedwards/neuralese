@@ -1,0 +1,162 @@
+[
+  {
+    "timeframe": "Mid-2025: Initial Agents",
+    "selected": "Quiet Integration",
+    "description": "Agents work well enough that adoption happens without fanfare. No major narrative shift.",
+    "probability": 35,
+    "all_options": [
+      [
+        "Stumbling Adoption",
+        45
+      ],
+      [
+        "Quiet Integration",
+        35
+      ],
+      [
+        "Spectacular Failure",
+        20
+      ]
+    ]
+  },
+  {
+    "timeframe": "Late 2025: Scaling Phase",
+    "selected": "Capability Plateau",
+    "description": "Scaling hits diminishing returns. Labs pivot to efficiency and deployment rather than raw capability.",
+    "probability": 30,
+    "all_options": [
+      [
+        "R&D Acceleration",
+        50
+      ],
+      [
+        "Capability Plateau",
+        30
+      ],
+      [
+        "Open Source Surge",
+        20
+      ]
+    ]
+  },
+  {
+    "timeframe": "Early 2026: Geopolitical Dynamics",
+    "selected": "Unexpected Cooperation",
+    "description": "Shared concerns about AI risks or economic disruption lead to quiet coordination on safety standards.",
+    "probability": 25,
+    "all_options": [
+      [
+        "Nationalist Mobilization",
+        40
+      ],
+      [
+        "Fragmented Response",
+        35
+      ],
+      [
+        "Unexpected Cooperation",
+        25
+      ]
+    ]
+  },
+  {
+    "timeframe": "Late 2026: Economic Transformation",
+    "selected": "Broad Displacement",
+    "description": "White-collar job losses accelerate across many sectors. Public anxiety spikes.",
+    "probability": 35,
+    "all_options": [
+      [
+        "Selective Disruption",
+        45
+      ],
+      [
+        "Broad Displacement",
+        35
+      ],
+      [
+        "Productivity Illusion",
+        20
+      ]
+    ]
+  },
+  {
+    "timeframe": "Early 2027: Capability Threshold",
+    "selected": "Recursive Improvement",
+    "description": "AI systems begin meaningfully accelerating AI research. Progress compounds rapidly.",
+    "probability": 40,
+    "all_options": [
+      [
+        "Recursive Improvement",
+        40
+      ],
+      [
+        "Bottleneck Discovery",
+        35
+      ],
+      [
+        "Quiet Capability",
+        25
+      ]
+    ]
+  },
+  {
+    "timeframe": "Mid 2027: Security Crisis",
+    "selected": "Espionage Escalation",
+    "description": "Major theft of AI capabilities by state actors. Security becomes paramount concern.",
+    "probability": 35,
+    "all_options": [
+      [
+        "Espionage Escalation",
+        35
+      ],
+      [
+        "Internal Leak",
+        30
+      ],
+      [
+        "Managed Transition",
+        35
+      ]
+    ]
+  },
+  {
+    "timeframe": "Late 2027: Alignment Reckoning",
+    "selected": "Clear Warning",
+    "description": "Unmistakable evidence of misalignment surfaces. Forced pause or major restructuring.",
+    "probability": 30,
+    "all_options": [
+      [
+        "Ambiguous Signals",
+        40
+      ],
+      [
+        "Apparent Success",
+        30
+      ],
+      [
+        "Clear Warning",
+        30
+      ]
+    ]
+  },
+  {
+    "timeframe": "2028: Resolution Path",
+    "selected": "Gradual Entanglement",
+    "description": "Neither triumph nor disaster. Humans and AI become increasingly interdependent in ways neither fully controls.",
+    "probability": 45,
+    "all_options": [
+      [
+        "Gradual Entanglement",
+        45
+      ],
+      [
+        "Controlled Deployment",
+        25
+      ],
+      [
+        "Institutional Capture",
+        30
+      ]
+    ]
+  }
+]
