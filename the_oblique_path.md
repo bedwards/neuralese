@@ -38,171 +38,181 @@ In San Francisco, Sam Altman is not thinking about Amazon at all. He's thinking 
 
 ---
 
-## Late 2025: The Vertical Temptation
+## Late 2025: The Quiet Signals
 
 **TIMEFRAME: Late 2025 - Datacenter Buildout**
 
 *For reference, AI-2027 predicts: The leading labs build the biggest datacenters ever seen, training models with 10²⁸ FLOP—a thousand times more than GPT-4. Other companies pour money in, hoping to keep pace.*
 
-**Three radically different paths:**
+**Three paths diverging from AI-2027's focus on raw compute:**
 
-1. **The Platform Play** (30%): AI labs remain infrastructure providers, selling capabilities to other businesses. The tool-maker model persists. Traditional industries adapt using AI services.
+1. **The Talent War** (35%): The real bottleneck isn't compute—it's people. A brutal competition for AI researchers drives salaries into the stratosphere and depletes academia entirely. The labs that win the talent war will win everything else.
 
-2. **The Vertical Integration** (40%): AI labs begin acquiring and building businesses in other sectors. Why sell AI to a law firm when you can be the law firm? The conglomerate model returns, AI-accelerated.
+2. **The Enterprise Pivot** (40%): The consumer AI market saturates faster than expected. The real money shifts to enterprise—boring, lucrative, transformative. The companies that figure out how to sell to Fortune 500 CFOs will define the next phase.
 
-3. **The Nationalist Fracture** (30%): Governments, alarmed by AI concentration, force breakups and nationalization. The labs splinter along national lines. Global AI development fragments.
+3. **The Safety Pause** (25%): Internal pressure from researchers, combined with a few close calls that don't go public, leads the major labs to voluntarily slow deployment. The pause is real but temporary—and it changes the competitive landscape.
 
-**>>> SELECTED: The Vertical Integration**
-
----
-
-The acquisition that signaled the shift was small enough to miss if you weren't paying attention. OpenAI bought a litigation support company called Axiom for $340 million in December 2025. The press release was corporate boilerplate: "enhanced legal AI capabilities" and "enterprise solutions for the legal sector."
-
-The reality was simpler and more terrifying: OpenAI was done selling tools to law firms. It was going to eat law firms alive.
-
-Not literally practice law—the regulatory barriers remained formidable, for now. But document review, legal research, contract analysis, due diligence, discovery support—this was the bulk of what junior lawyers and paralegals actually did. Seventy-hour weeks of grinding through documents. Hundreds of thousands of dollars in billable hours. And AI could do all of it better, faster, and for pennies on the dollar. Axiom had the client relationships. OpenAI had the capability. The combination could offer legal services at prices that made traditional law firms look like highway robbery.
-
-The legal industry's response followed the classic stages of grief. First came denial: the American Bar Association issued statements about the "sanctity of the attorney-client relationship" and the "irreplaceable judgment of human counsel." Then bargaining: law firm partners assured clients that AI could never replace the strategic thinking and relationship management that partners provided—please keep paying us $1,500 an hour. Finally, acceptance: those same firms quietly laid off associates by the hundreds and expanded their Axiom contracts. The associates they kept were the ones who could sell, not the ones who could think.
-
-What happened in legal was the template. Watch closely; you'll see it repeat everywhere.
-
-Anthropic announced a partnership with McKinsey in January 2026—but not to provide AI tools to McKinsey's consultants. This was a joint venture that would compete with McKinsey's traditional consulting business. Anthropic got access to McKinsey's Fortune 500 rolodex and decades of industry expertise. McKinsey got a hedge against disruption and a share of the upside. For McKinsey's competitors—Bain, BCG, the second-tier firms that had built empires on the same model—it was a death sentence.
-
-Google moved fastest, because Google had never pretended to have boundaries. By March 2026, Google Health had metastasized from a research initiative into a full-service healthcare analytics provider, eating Epic and Cerner's lunch. Google Finance offered AI-powered wealth management that undercut traditional advisors by 90%—not 9%, ninety percent. Google Legal, Google Consulting, Google Design—the product launches came monthly, each one a declaration of war against an industry that had assumed its expertise was safe.
-
-The pattern was industrial-revolution obvious: AI capabilities that had been sold as tools became the foundation for vertically integrated empires. The AI companies had the technology. They had capital—their valuations made them richer than most countries. They had talent that traditional industries couldn't afford to poach back. What they had lacked was domain expertise and customer relationships. Acquisitions solved one. Partnerships solved the other. The barriers were falling.
-
-Amazon watched this happening with a mixture of alarm and horrified recognition. This was their playbook—the exact strategy they had used to move from books to everything. Build infrastructure, let others depend on it, learn from serving them, then crush them with what you learned. But Amazon had taken twenty-five years to execute this strategy. The AI labs were executing it in months. They were speed-running Amazon's entire corporate history.
-
-Jassy's response was desperate acceleration. Pour resources into catching up on capability. Leverage existing advantages in logistics, retail, and cloud. Amazon Clinic expanded into telehealth. Amazon Law launched to compete with the Axiom thing. The company that had disrupted retail was now trying to disrupt everything else before the AI labs could get there first.
-
-It wasn't working. And somewhere in Jassy's gut, he knew it wasn't going to work.
-
-The result was a three-way race that neither the public nor the regulators fully grasped. Google, OpenAI/Microsoft, and Anthropic were building conglomerates that would span every knowledge-intensive industry in existence. Amazon was trying to match them using operational excellence and distribution advantages—bringing a knife to a gunfight. Meta was pursuing a different strategy (more on that disaster shortly). And the traditional companies in each sector were realizing, far too slowly, that their AI vendors were becoming their executioners.
-
-For workers in the affected industries, the implications were immediate and brutal.
-
-David Okonkwo, thirty-four, associate at a midsize Chicago law firm, had spent seven years building expertise in corporate transactions. He had survived previous rounds of automation—document assembly software, e-discovery tools, the earlier generations of contract analysis AI. Each time, the partners had assured associates that the strategic work would remain human. "Clients pay for judgment," they said. "AI can't replace relationships."
-
-In April 2026, David's firm announced a "strategic partnership" with Axiom. The internal memo emphasized "enhanced efficiency" and "reduced costs." What it meant in practice was this: the work David did—the research, the drafting, the due diligence that had consumed his twenties and early thirties—would now be done by AI. David would either transition to "client relationship management" (cold-calling, basically, with a nicer title) or accept a severance package.
-
-He took the severance. Forty percent of his starting class did the same. The ones who stayed weren't staying to practice law. They were staying to sell.
-
-The unemployment statistics didn't capture what was happening. David and his classmates weren't unemployed in the traditional sense. Many found other work—some in the shrinking traditional legal sector, some in "AI oversight" roles at the new legal AI companies (watching machines do the work they used to do), some in entirely different fields (David's friend from law school was driving for Uber, which was ironic given what was about to happen to that industry too).
-
-But something fundamental had changed. The cognitive tasks that had defined professional careers for a century—analysis, research, synthesis, drafting, the work that justified a hundred thousand dollars in law school debt—were being automated. What remained was either highly specialized (the senior partners who genuinely did strategic work, maybe 5% of the profession) or highly interpersonal (the salespeople, the relationship managers, the human faces that clients still wanted to see for some reason). The middle had been hollowed out. The ladder to the top had been kicked away.
-
-The geographic redistribution was savage. The AI companies were concentrated in San Francisco, Seattle, and New York. Their need for physical presence elsewhere was minimal—AI doesn't need office space in Cleveland. It doesn't commute from the suburbs of Atlanta. The professional service firms that had maintained those offices, employed those workers, anchored those tax bases, were contracting fast.
-
-Austin held on better than most—the tech presence was strong enough to attract AI company satellite offices, and the cost of living hadn't yet priced everyone out. Denver benefited from quality of life. But cities like Charlotte, Minneapolis, Philadelphia—cities that had built entire economies around being regional hubs for professional services—watched those economies evaporate in eighteen months. Commercial real estate vacancy rates hit 40%, then 50%, then stopped being reported because the numbers were too grim to publish. The COVID-era collapse of office work was nothing compared to this. This was permanent.
-
-For the AI companies, the vertical integration strategy was wildly, almost obscenely successful by every financial metric. Revenue tripled. Margins expanded as AI gutted labor costs. Market capitalizations approached and then exceeded the GDP of medium-sized countries. Anthropic was worth more than Sweden. OpenAI was worth more than Switzerland. The wealth concentration was unprecedented in human history, and it was accelerating.
-
-The question—the only question that mattered—was what this success would mean for everyone else.
-
-The healthcare sector offered a preview of the answer. Google Health's expansion into medical diagnostics had produced genuinely impressive results. The AI could read radiology scans better than most radiologists. It could identify patterns in lab results that human doctors missed. It could synthesize patient histories and recommend treatment options with accuracy that exceeded experienced physicians.
-
-The patients who had access to Google Health services received better care—faster diagnoses, more accurate treatments, fewer medical errors. The metrics were indisputable. The AI was better at medicine than most humans were.
-
-But the healthcare workforce was being decimated. The radiologists who had spent a decade in training found their skills obsolete. The primary care physicians who had built practices over careers found their patients preferring AI consultations. The nurses who had provided the human face of care found themselves supervised by AI systems that monitored their performance with precision that left no room for human judgment.
-
-The healthcare that remained—for humans—was either high-end (the concierge practices that wealthy patients paid premium prices for) or low-end (the holding and management roles that AI systems directed but couldn't perform). The middle-class healthcare careers that had provided reliable employment for millions were evaporating.
-
-The rural healthcare crisis, already acute before AI, became terminal. The small hospitals that had served isolated communities couldn't afford AI systems, couldn't compete with AI-enhanced urban care, couldn't recruit human doctors who would accept rural salaries. The hospital closures accelerated. The communities that lost hospitals lost something more than healthcare—they lost the anchor institutions that had made them viable places to live.
-
-The accounting profession told a similar story. The tax preparation that had employed hundreds of thousands was automated almost entirely. The auditing that had required teams of junior accountants required smaller teams working with AI systems. The financial planning that had been a path to middle-class prosperity was now done by AI at lower cost with better returns. The profession didn't die—it shrank and transformed into something unrecognizable.
-
-Architecture, engineering, design—every field that involved applying expertise to problems faced the same transformation. The AI systems were not sentient, not creative in the human sense, not capable of judgment in the way humans exercised it. But they were better than most humans at most tasks most of the time. And "better than most humans at most tasks most of the time" was enough to restructure entire industries.
-
-The winners were clear: the AI companies and their investors, the senior professionals who had genuine expertise that AI couldn't replicate, the young workers who could adapt to AI-augmented workflows. The losers were equally clear: the mid-career professionals whose expertise had been commoditized, the workers in industries AI transformed, the communities that had depended on now-obsolete economic foundations.
-
-The political response was silence. The politicians who might have responded were already captured. The policies that might have cushioned the transition were never proposed. The retraining programs that were proposed were underfunded and ineffective—you couldn't retrain a fifty-year-old radiologist to do work that AI hadn't automated yet, because AI was automating everything.
-
-The social contract that had organized American life for generations—work hard, develop skills, trade labor for security—was breaking down. The new social contract that might replace it had not emerged. The gap between the two was filled with suffering that the statistics captured imperfectly and the political system ignored entirely.
+**>>> SELECTED: The Enterprise Pivot**
 
 ---
 
-## Early 2026: The Great Consolidation
+The pivot happened so quietly that most people didn't notice it until it was over.
+
+Throughout 2025, the AI labs had been racing to impress consumers. ChatGPT's interface got sleeker. Claude got friendlier. Gemini got faster. The improvements were real, the demos were impressive, and the growth curves were flattening. By October 2025, everyone who wanted a personal AI assistant had one. The early adopters had adopted. The mainstream had mainstreamed. What remained was the long tail of holdouts who would never adopt, and the incremental improvements that generated press releases but not revenue.
+
+The consumer AI market hadn't failed—it had succeeded too quickly. There were only so many people willing to pay $20 a month for a better chatbot. The free tiers were good enough for casual use. The power users had already subscribed. The market was mature eighteen months after it was born.
+
+The enterprise market was different. The enterprise market was bottomless.
+
+Satya Nadella understood this before anyone else, because Satya Nadella had been selling to enterprises for his entire career. The Microsoft CEO had watched the consumer AI frenzy with a patient smile, knowing that the real money was elsewhere. Consumers would pay $20 a month. Enterprises would pay $20,000 a month. Per seat. For years.
+
+The Copilot expansion that Microsoft announced in November 2025 wasn't about new capabilities—the capabilities had been there for months. It was about packaging, pricing, and positioning. Microsoft 365 Copilot for Legal. Copilot for Finance. Copilot for Healthcare. Each version tuned for specific workflows, priced at rates that would have seemed absurd for consumer software, sold through the enterprise sales channels that Microsoft had been building for forty years.
+
+The law firms were the first major buyers. Not because they were the most innovative—law firms were famously conservative—but because their economics were the most obviously broken. A first-year associate at a major firm billed at $500 per hour and did work that Copilot for Legal could do in seconds. The math was so compelling that even the most change-resistant partners couldn't ignore it.
+
+Davis Polk signed in December 2025. Then Sullivan & Cromwell. Then Kirkland & Ellis. By January 2026, every AmLaw 100 firm was either implementing Copilot for Legal or in negotiations to do so. The rollout was quiet—no press releases, no announcements—because the firms didn't want their clients to know how much of their billable work was about to be automated.
+
+Google responded with Workspace AI for Enterprise, a suite that matched Microsoft's offerings feature for feature. Anthropic, which had been focused on consumer Claude, scrambled to build an enterprise sales team from scratch. OpenAI, which had been coasting on its consumer lead, suddenly found itself playing catch-up in the market that actually mattered.
+
+The enterprise pivot changed everything about how AI companies operated. Consumer users wanted features—new capabilities, impressive demos, viral moments. Enterprise users wanted reliability, security, compliance, and support. They wanted someone to call when something went wrong. They wanted contracts that specified uptime guarantees and liability limits and data handling procedures. They wanted boring.
+
+The AI labs that had been built by researchers optimizing for capability had to learn to optimize for enterprise requirements. The transition was brutal. Anthropic hired a Chief Revenue Officer from Salesforce. OpenAI brought in enterprise sales veterans from Oracle. Google reorganized its AI division to report through the cloud sales organization rather than the research organization. The researchers who had built these systems found themselves increasingly irrelevant to the business decisions that shaped their deployment.
+
+For the law firms and consultancies and financial institutions that were adopting enterprise AI, the transition was quieter but equally profound. The tools were genuinely useful—they really did automate document review, really did accelerate research, really did improve the accuracy of routine analysis. The productivity gains were real and measurable.
+
+The workforce implications were not yet visible, because the firms had not yet acted on them. The associates were still employed, still billing hours, still doing work that the AI could have done faster and cheaper. The partners told themselves that the AI was augmenting human work, not replacing it. The associates told themselves that their judgment and relationships remained valuable. Everyone told themselves that the transformation would be gradual, manageable, humane.
+
+What no one said aloud, but everyone understood, was that the current staffing levels were unsustainable. If Copilot for Legal could do the work of three associates, why pay for three associates? If Workspace AI could handle routine analysis, why staff a team of analysts? The productivity gains that justified the enterprise AI purchases were, by definition, gains that came from employing fewer humans.
+
+The layoffs would come. They would come in 2026, in 2027, in waves that would transform the professional workforce. But in late 2025, they remained in the future—a shadow that everyone could see but no one wanted to discuss.
+
+Amazon watched the enterprise pivot with a complicated mix of emotions. On one hand, AWS was the infrastructure underlying much of this transformation—the cloud services that the AI labs depended on, the compute that powered the enterprise deployments. Every Copilot query generated AWS revenue. Every Workspace AI call ran through Google Cloud, but the enterprise customers who were adopting these tools also needed AWS services for their own operations.
+
+On the other hand, Amazon's own AI offerings were clearly second-tier. Bedrock was fine. The Amazon Q assistant was adequate. Neither was in the same league as the frontier models from OpenAI, Anthropic, and Google. The enterprise pivot meant that Amazon was becoming a utility provider for AI rather than an AI leader. It was as if Standard Oil had been reduced to selling drilling equipment while someone else pumped the oil.
+
+Jassy's internal memos from this period, which would later be leaked, revealed a CEO struggling with strategic paralysis. "We cannot win on capability," he wrote in December 2025. "We cannot win on enterprise relationships—MSFT has those. We cannot win on integration—GOOG has that. What can we win on?"
+
+The question went unanswered. The memo that would have answered it—the memo about Amazon's path forward—was never written, because Jassy didn't know what it would say.
+
+Meanwhile, in San Francisco, the AI labs were discovering that enterprise success created its own problems.
+
+The enterprise customers were demanding. They wanted features that consumers didn't care about: audit logs, role-based access control, custom fine-tuning on proprietary data, integration with legacy systems that hadn't been updated since the Clinton administration. Every enterprise sale required months of negotiation, customization, and implementation support. The sales cycles were long. The support requirements were endless. The margins were excellent, but the operational complexity was enormous.
+
+The labs that had been built to move fast found themselves moving slowly. The researchers who had been hired to push capability frontiers found themselves debugging enterprise integrations. The culture of rapid iteration gave way to a culture of careful deployment. Enterprise customers didn't want surprises. They wanted stability.
+
+The capability advances continued, but they happened in the background, less visible to the public than the consumer-focused launches had been. The enterprise AI that was being deployed to law firms and consultancies was genuinely transformative, but the transformation was happening inside corporate intranets, invisible to anyone who wasn't party to the contracts.
+
+The public narrative about AI shifted accordingly. The breathless coverage of new capabilities gave way to business-section stories about enterprise adoption. The demos that had captured public imagination—AI generating images, AI writing poetry, AI passing exams—gave way to case studies about productivity gains and cost reductions. The AI revolution was still happening, but it was happening in boardrooms rather than on social media.
+
+This was, in retrospect, the moment when the AI transformation became irreversible. Not because of any particular capability breakthrough—the capabilities were advancing steadily, without any single dramatic leap—but because the economic integration had reached a point of no return. The law firms couldn't go back to paying associates to do work that AI did better. The consultancies couldn't go back to staffing teams of analysts when AI handled the analysis. The financial institutions couldn't go back to manual processes when AI automated them.
+
+The transformation had become infrastructure. And infrastructure, once installed, is rarely removed.
+
+The workers who would be affected by this transformation didn't yet know the full extent of what was coming. The associates at the law firms were still working their eighty-hour weeks. The analysts at the consultancies were still building their PowerPoint decks. The professionals who had spent decades building expertise were still being paid for that expertise.
+
+But the economics had already shifted. The value of their work had already declined. The layoffs that would follow were already implied by the contracts being signed. The future was arriving on schedule, one enterprise deal at a time.
+
+David Okonkwo, thirty-four, associate at a midsize Chicago law firm, had no idea that his career had already peaked. He was still billing hours, still getting good reviews, still assuming that hard work would lead to partnership. The Copilot for Legal system that his firm was evaluating seemed like a tool that would make his job easier, not a replacement that would make his job unnecessary.
+
+He would learn otherwise. But not yet. In late 2025, David was still living in the old world, the world where human expertise had value, where career paths followed predictable trajectories, where the social contract between employers and employees still held.
+
+That world was ending. The signals were there, for anyone who knew how to read them. But most people didn't know how to read them. Most people were just living their lives, doing their jobs, assuming that tomorrow would look like today.
+
+The enterprise pivot was complete. The consequences were just beginning.
+
+---
+
+## Early 2026: The First Layoffs
 
 **TIMEFRAME: Early 2026 - Coding Automation**
 
 *For reference, AI-2027 predicts: AI R&D progress accelerates 50% with AI assistants. Frontier models solve well-specified coding problems extremely quickly but struggle with long-horizon tasks.*
 
-**Three radically different paths:**
+**Three paths diverging from AI-2027's focus on technical capability:**
 
-1. **The Tri-opoly Emerges** (40%): Three AI giants—Google, OpenAI/Microsoft, Anthropic—consolidate control. Everyone else becomes a customer or a casualty. Amazon and Meta fade to secondary status.
+1. **The Quiet Cuts** (40%): The enterprise adoption that accelerated in late 2025 begins producing its inevitable consequence: workforce reductions. But the layoffs are quiet, dispersed, individually unremarkable. The pattern is visible only in aggregate.
 
-2. **The Open Source Rebellion** (30%): Meta's Llama strategy succeeds. Open-source models match proprietary capabilities. The consolidation fails as capability becomes commoditized.
+2. **The Training Crisis** (35%): Universities and professional schools face a crisis of relevance. Applications drop as students question whether degrees will matter in an AI economy. The institutions that shaped professional life begin their long decline.
 
-3. **The Regulatory Breakup** (30%): Antitrust action shatters the emerging giants. The DOJ and FTC, backed by bipartisan fury, force divestitures. The industry fragments.
+3. **The Contractor Shift** (25%): Rather than laying off employees, companies shift to contractor models—using AI to manage larger pools of gig workers. The legal distinction between employee and contractor blurs further.
 
-**>>> SELECTED: The Tri-opoly Emerges**
+**>>> SELECTED: The Quiet Cuts**
 
 ---
 
-Mark Zuckerberg had bet Meta's future on open source, and by February 2026, he knew he'd lost the bet.
+The layoffs started in January, and they started small.
 
-The theory had been elegant, the kind of strategy that looks brilliant in a boardroom presentation: release capable AI models freely, build an ecosystem around them, profit from adjacent services while denying the proprietary labs their competitive moat. If AI capability was commoditized, Meta's advantages in social networking, VR, and advertising would matter more. It was judo—using the opponent's strength against them.
+A regional accounting firm in Columbus, Ohio—not one of the Big Four, just a respectable mid-sized practice that had served central Ohio businesses for sixty years—announced that it was "restructuring to meet evolving client needs." The restructuring eliminated fourteen positions, mostly junior accountants who had been doing the routine work that AI now handled. The press release mentioned "efficiency gains" and "strategic repositioning." It did not mention that the firm's Copilot for Finance subscription cost less per month than a single junior accountant's salary.
 
-The theory was dead wrong.
+The same week, a law firm in Atlanta let go of twelve associates. A consulting boutique in Boston eliminated its entire research department—eight people who had spent their careers synthesizing information that AI could now synthesize better. A marketing agency in Los Angeles cut its copywriting staff by half.
 
-Open source models remained perpetually behind the proprietary frontier. Not by much—maybe six months. But six months in AI might as well be six years. Llama 4 matched GPT-4 the same week GPT-5 dropped and made GPT-4 look like a calculator. Enterprise customers needed the best, and the best was never open source. The gap was structural: open source couldn't match the compute budgets, couldn't match the data access, couldn't match the recursive improvement cycles. Open source was always catching up, never catching up.
+None of these layoffs made national news. They were too small, too dispersed, too ordinary. Companies laid off workers all the time. That was capitalism. The fact that the laid-off workers had been doing cognitive work, professional work, the kind of work that was supposed to be safe from automation—this fact was noted in industry publications and ignored by everyone else.
 
-Worse: the vertical integration strategy that was actually working required proprietary advantage. Google could offer AI-powered legal services at a discount because its AI was better than what clients could access anywhere else. If clients could download equivalent capabilities for free, the discount meant nothing. You couldn't build conglomerates on commoditized capabilities. The moat was the whole point. Open source filled in moats. Zuckerberg had spent billions filling in his competitors' moats.
+By February, the pattern was clear to anyone who was looking.
 
-Meta's stock price, which had staged a recovery from its 2022 metaverse faceplant, began falling again. The analysts' reports read like obituaries: Meta had the wrong strategy for the emerging AI economy. The social networking business was mature and threatened by AI-generated content (why follow real humans when AI could generate more entertaining ones?). The VR bet wasn't paying off (the headsets were gathering dust in closets). The AI bet had been structured to deny value to others rather than capture value for Meta. It was pure spite dressed up as strategy, and it wasn't working.
+The Bureau of Labor Statistics wouldn't capture the trend for months—their surveys lagged reality, and the categories they used didn't distinguish between "laid off because the company was struggling" and "laid off because AI made your job unnecessary." But the recruiting firms saw it. The outplacement services saw it. The unemployment offices in professional neighborhoods saw it.
 
-Zuckerberg, who had survived existential crises before, tried to pivot. March 2026: Meta would pursue a "hybrid" strategy—proprietary models for consumer products, open models for the ecosystem. The market laughed. The pivot required capabilities Meta hadn't invested in, while the labs that had made those investments were now years ahead and accelerating. You can't catch a bullet train by starting to run after it's left the station.
+The workers who were losing jobs were not factory workers or truck drivers—the populations that had been warned about automation for years. They were accountants and lawyers and analysts and consultants. They were people with graduate degrees and professional certifications and six-figure salaries. They were the people who had been told, explicitly and repeatedly, that their cognitive skills made them irreplaceable.
 
-Amazon's position was different but equally terminal. They had capabilities—substantial ones—but they had been optimized for AWS integration rather than standalone excellence. Amazon's AI was very good at running on Amazon's infrastructure. It was mediocre at competing with Claude or GPT-5 on raw capability. And in AI, mediocre was death.
+They were being replaced.
 
-Jassy's integration strategy was sputtering. Amazon Clinic was growing but wasn't differentiated enough to threaten the medical AI ventures that Google and OpenAI were launching. Amazon Law had stumbled over regulatory barriers that the more legally-sophisticated OpenAI had already navigated (they had hired half of Cravath). Amazon's logistics advantage remained real, but it was an advantage in moving atoms, and the AI economy was increasingly about bits. You couldn't deliver intelligence to doorsteps. You couldn't warehouse insight.
+David Okonkwo's firm made its announcement in March. The managing partner gathered the associates in the main conference room—the one with the view of Lake Michigan that was supposed to impress clients—and explained that the firm was "evolving its service delivery model." The evolution involved reducing the associate class by forty percent.
 
-By May 2026, the shape of the industry had clarified with brutal finality. Three entities controlled the frontier: Google (through DeepMind and its integrated AI efforts), OpenAI (through its Microsoft cash machine and aggressive vertical integration), and Anthropic (which had moved more slowly on vertical integration but maintained a capability lead in coding and reasoning—the stuff that actually mattered).
+David had seen this coming. He had been using Copilot for Legal himself, had seen what it could do, had felt the quiet dread of watching a machine do in seconds what had taken him hours. He had told himself that his judgment mattered, that his relationships mattered, that the partners would always need humans to interface with clients. He had told himself these things, and he had not believed them.
 
-Everyone else was a customer, a partner, or a corpse.
+The severance package was generous—three months of salary, extended health insurance, outplacement support. The firm could afford to be generous. The money they were saving on associate salaries dwarfed the severance costs. David was thirty-four years old, and his career was over. Not over-over—he would find something else, some other way to use his skills—but the career he had trained for, the career he had sacrificed his twenties to build, that career was finished.
 
-The financial implications were staggering. The combined market capitalization of the three leaders exceeded $15 trillion—larger than the entire GDP of China. Their cash flows were sufficient to fund any acquisition, any expansion, any research program, any political campaign they chose. They had become what antitrust scholars called "too big to compete with" and what everyone else called "too big to stop."
+His wife Grace worked for Google in San Francisco. They had been living apart for two years, seeing each other on alternating weekends, planning to resolve the geographic separation "when the time was right." The time was now right, in the worst possible way. David could move to San Francisco because David no longer had a job keeping him in Chicago.
 
-The political implications were terrifying if you thought about them, so most people didn't. The three companies collectively employed over a million people, but their operations touched every American's life. The AI that recommended your content, priced your insurance, screened your job application, diagnosed your symptoms, drafted your legal documents, decided your mortgage rate, flagged you for surveillance—all of it flowed from three sources. Three companies knew more about the American population than the American government did. The concentration of power was unprecedented in the history of capitalism, and it had happened in eighteen months.
+Grace's reaction to his layoff was complicated in ways that neither of them fully processed. She worked at one of the companies that was making these layoffs happen. She had been promoted twice in the past year, her AI-related work increasingly central to Google's strategy. Her success and his failure were two sides of the same transformation. They loved each other and they were on opposite sides of a war that neither of them had chosen.
 
-Congress held hearings. The witnesses were familiar: Sam Altman, polished and reasonable, radiating "trust me" energy; Dario Amodei, earnest and concerned, the safety guy who somehow was also building god; Sundar Pichai, carefully bland, his face a mask of corporate neutrality that revealed nothing. They testified about the importance of American AI leadership, the risks of over-regulation, the jobs they were creating. They did not testify about the industries they were vaporizing or the power they were accumulating. The senators asked soft questions. The senators received soft donations.
+The moving truck came in April. David packed up his law school diplomas, his bar admission certificates, the framed letters from satisfied clients. Artifacts of a career that had lasted seven years and now seemed like it had happened to someone else. The Chicago apartment where he had lived as a successful young lawyer became an empty space waiting for the next tenant—probably someone in tech, probably someone whose job was secure for now.
 
-The FTC and DOJ launched investigations. The investigations would take years. They were designed to take years. The consolidation continued, indifferent.
+The flight to San Francisco took four hours. David spent them staring out the window, watching the country scroll beneath him, wondering what came next.
 
-For ordinary consumers, the consolidation was largely invisible. The AI tools they used—ChatGPT, Claude, Gemini—continued to improve. The prices remained low, subsidized by the profits from enterprise services. The user experience was good, getting better, and free. Free was important. Free was how you built dependency.
+The narrative that the business press constructed around these layoffs was relentlessly positive. "Companies Embrace AI to Boost Productivity." "Professional Services Sector Sees Efficiency Gains." "The Future of Work: Human-AI Collaboration." The articles quoted executives talking about how AI was freeing workers from routine tasks, allowing them to focus on higher-value activities. The articles did not quote the workers who had been freed from their jobs entirely.
 
-What consumers didn't see was the tightening of the noose.
+The economists who studied labor markets offered reassuring historical parallels. Every technological transformation had caused disruption, they noted. The Industrial Revolution had displaced craftsmen. The computer revolution had displaced typists and switchboard operators. In every case, new jobs had emerged to replace the old ones. The AI revolution would be no different. The displaced workers would be absorbed into new roles that didn't exist yet.
 
-The AI companies had access to every conversation users had with their products. They knew what people were curious about, worried about, planning. They knew which businesses were struggling and which were thriving. They knew which legal strategies companies were considering, which employees were dissatisfied, which markets were about to shift, which marriages were failing, which teenagers were suicidal, which executives were having affairs. They knew everything.
+The economists were probably right, in the long run. The problem was that the long run was very long, and the people losing their jobs needed to pay rent now.
 
-This information was formally protected by privacy policies and terms of service. The privacy policies were 47 pages long. Nobody read them. In practice, the information informed every strategic decision the AI companies made. When Google Health entered a new market, it was never a coincidence that the market was one where users had been asking Gemini a lot of health questions. When OpenAI's consulting arm won a contract, it was never a coincidence that the client's employees had been using ChatGPT to work through strategic problems the client thought were confidential.
+The political response was muted, for reasons that would become clearer later. The layoffs were concentrated in professional sectors—law, accounting, consulting, finance—that were disproportionately located in blue cities and populated by people who had voted Democratic. The Republicans had no incentive to advocate for these workers; the disruption was happening to the other team. The Democrats had no framework for responding; the companies doing the disrupting were their major donors, and the free-market ideology they had absorbed over decades left them with no vocabulary for criticizing profitable efficiency gains.
 
-The surveillance capitalism that Shoshana Zuboff had warned about in 2019 was evolving into something more total. The AI companies weren't just watching; they were thinking. They weren't just collecting data; they were weaponizing it, using it to out-compete every business they touched. And the businesses didn't know they were being out-competed with their own secrets.
+So the layoffs continued, month by month, company by company, and no one in power did anything about them.
 
-The traditional tech giants—the ones who had seemed invincible a decade earlier—found themselves on the wrong side of history. Meta had surveillance but not capability. Amazon had capability but not integration. Apple had neither, having chosen to prioritize privacy over AI development. Microsoft had allied with OpenAI and was doing fine, thanks for asking. Everyone else was scrambling for scraps.
+The AI companies watched these developments with carefully managed public expressions of concern and private satisfaction. The layoffs were proof of concept—proof that enterprise AI delivered on its promises, that the productivity gains were real, that the value proposition was undeniable. Every laid-off professional was a testimonial that the AI companies could cite to their next prospective customer.
 
-Apple's fall was the most poetic. The company that had defined the smartphone era, that had pioneered personal computing, that had built the most valuable brand in human history—it was becoming irrelevant to the AI transformation. Tim Cook had made principled stands about privacy: refusing to unlock devices for law enforcement, minimizing data collection, positioning Apple as the ethical alternative to surveillance capitalism. These stands were genuine. They were admirable. They were suicide.
+The competition between the AI companies intensified as the enterprise market proved its value. Microsoft pushed Copilot aggressively, bundling it with Microsoft 365 subscriptions, offering discounts for multi-year commitments. Google responded with Workspace AI, matching Microsoft's features and undercutting on price. Anthropic, which had been slower to build enterprise sales capabilities, scrambled to catch up—hiring sales veterans from Salesforce and Oracle, building out the customer success teams that enterprise clients demanded.
 
-AI capability required data. Not some data. All the data. Every conversation, every search, every hesitation, every late-night confession to an AI therapist. Apple's privacy commitments meant less data, which meant weaker models, which meant falling behind. The on-device AI that Apple promoted as "privacy-preserving" was demonstrably worse than cloud-based alternatives. The users who cared about privacy were willing to accept that tradeoff. There were about seven of them.
+The capability race continued in parallel with the sales race. GPT-5 launched in February 2026, and it was genuinely better—faster, more accurate, more capable of sustained reasoning. Claude 4 followed in April, matching GPT-5 on benchmarks and exceeding it on certain tasks. Gemini 2 arrived in May, with Google's characteristic combination of impressive technology and confusing product positioning. The improvements were incremental, but each increment made more human work automatable.
 
-By mid-2026, the iPhone was still the premium smartphone, but it was premium in the way that a Rolex is premium—a status symbol, not a functional advantage. Nobody bought a Rolex because it told time better than a Casio. The AI assistants on Android devices, connected to Google's cloud, were simply more capable. They understood you. They anticipated you. They felt like magic. Siri felt like talking to a particularly stupid voicemail system. The productivity applications on Windows devices, integrated with Microsoft's AI services, were simply more powerful. Apple's ecosystem remained beautiful, refined, exclusive. It was also increasingly a museum.
+The race created pressure that the AI companies had not fully anticipated. The enterprise customers who had adopted AI tools were now dependent on them—their workflows had been rebuilt around AI capabilities, their staffing had been adjusted to assume AI assistance. These customers couldn't easily switch providers; the switching costs were too high. But they could demand more: more features, more capability, more integration, more support. The AI companies found themselves locked in a service relationship that was more demanding than the consumer market had ever been.
 
-The Apple employees who had joined the company to build the future found themselves curating the past. The engineers who wanted to work on frontier AI left for companies where frontier AI was being built. The designers who wanted to shape the next paradigm discovered there was no next paradigm at Apple—just refinements of the last one. The company that had insisted it was different, special, above the grubby compromises of surveillance capitalism was discovering that refusing to play the game meant losing it. Principles are wonderful things. They don't run on GPUs.
+The smaller AI companies—the startups that had raised money on the promise of competing with the giants—began to fail. The enterprise market favored incumbents with proven track records and established relationships. The consumer market favored products with the best capabilities, which meant the products with the most compute and data. The niches that had seemed promising—vertical AI for specific industries, AI tools for specific workflows—were being absorbed by the horizontal platforms that could do everything adequately.
 
-Steve Jobs, had he lived, might have found a way to thread this needle. The man had bent reality before. Tim Cook couldn't. Cook was an operations genius, the best supply chain manager who ever lived, and that was exactly the wrong skillset. The company's market capitalization, still enormous in absolute terms, declined relative to the AI leaders. The narrative shifted with brutal clarity: Apple was no longer a technology company. It was a luxury goods company with technology heritage. The future was being built elsewhere, by people who didn't care about your privacy.
+By mid-2026, the industry structure had clarified. Microsoft, Google, and Anthropic controlled the frontier. OpenAI, having merged its commercial operations more closely with Microsoft, was essentially a Microsoft subsidiary with unusual governance. Meta's open-source strategy was producing capable models that were always six months behind the frontier—useful for research and hobbyists, irrelevant for enterprises that needed the best. Amazon's AI offerings were adequate but undifferentiated, surviving on AWS integration rather than capability leadership.
 
-The investor class experienced the consolidation as opportunity. The venture capitalists who had funded the AI labs saw their investments appreciate beyond any reasonable expectation. The public market investors who had bought early saw similar returns. The concentration of AI capability meant concentration of AI value meant concentration of AI wealth.
+The consolidation was not a dramatic event but a gradual clarification. The three leaders didn't acquire their competitors; they simply out-competed them. The funding dried up for AI startups that couldn't demonstrate a path to competing with the giants. The talent flowed to the companies that could pay the most and offer the most interesting work. The customers migrated to the providers with the most reliable products and the best support.
 
-But most investors—the pension funds, the index funds, the individual retirement accounts that held stakes in the traditional economy—found their portfolios underperforming. The companies that AI disrupted saw their values decline. The overall market rose, but the gains concentrated in the AI sector while the losses spread across everyone else.
+This was how industries consolidated: not with a bang, but with a series of quarterly earnings reports that made the trajectory unmistakable.
 
-The retail investors who had been encouraged to buy and hold diversified portfolios discovered that diversification was protection against idiosyncratic risk, not against systematic transformation. Their holdings in traditional industries—retail, transportation, professional services, media—declined as AI disrupted each sector. Their holdings in the AI companies, if they had any, were too small to compensate.
+The workers who had lost their jobs to AI automation faced a labor market that was less welcoming than it had been six months earlier. The job listings that remained often required AI skills—not the skills of using AI, which everyone had, but the skills of building and managing AI systems, which few possessed. The career advice industry pivoted to "AI adaptation"—consultants selling courses on how to work alongside AI, how to make yourself indispensable in an AI-augmented workplace, how to find the niches that machines couldn't fill.
 
-The wealth distribution consequences compounded over time. The people who owned AI company equity got richer. The people who owned everything else got relatively poorer. The people who owned nothing at all—the workers who depended on wages—saw those wages stagnate or decline as AI reduced labor's bargaining power. The inequality that had been widening for decades accelerated its widening.
+Some of the displaced workers found these niches. They became AI trainers, providing the human feedback that improved model performance. They became AI auditors, checking AI outputs for errors and bias. They became AI ethicists, advising companies on responsible deployment. These jobs existed, but there were far fewer of them than there were displaced workers seeking them.
 
-The consolidation created its own acceleration. As the three leaders grew more powerful, they attracted more talent, more capital, more data. The gap between them and everyone else widened. The moat deepened. The possibility of a new entrant disrupting the tri-opoly receded toward zero.
+Others left the professional workforce entirely. The early retirement that had seemed impossible at fifty became conceivable at forty-five, if you had enough savings. The career change that had seemed too risky at forty became necessary at thirty-eight, when the career you'd built no longer existed. The return to school that had seemed pointless at any age became the only option, even knowing that the degree you earned might be obsolete before you finished it.
 
-By mid-2026, the question was no longer whether AI would be controlled by a small number of companies. It was whether anything could be done about it—and whether anyone with the power to act would choose to.
+The psychological toll was harder to measure but equally real. Professional identity in America was bound up with work in ways that the cheerful advice about "finding your passion" and "defining yourself beyond your job" had never acknowledged. The laid-off lawyers had spent seven years of education and training becoming lawyers. That identity didn't disappear because the job did. The dissonance between who they had been and who they now were—unemployed, unwanted, obsolete—was corrosive.
+
+The mental health system, already strained, saw an uptick in patients presenting with what therapists began calling "displacement depression"—the specific cluster of symptoms associated with losing work to automation. The symptoms resembled other forms of depression but had distinctive features: a sense that one's skills and efforts had been invalidated, a loss of confidence in one's ability to adapt, a pervasive anxiety about an economic future that seemed to offer no secure place.
+
+This was the transformation that everyone had predicted and no one had prepared for. The economists had said it would happen. The technologists had said it would happen. The futurists had written books about it happening. And now it was happening, gradually, quietly, one layoff announcement at a time, and the systems that might have cushioned the transition did not exist.
+
+The summer of 2026 approached with an economy that was, by most measures, thriving. The stock market was up. Productivity was up. Corporate profits were up. The AI companies were worth more than ever.
+
+The workers who had been made redundant were a statistical footnote, a rounding error in the aggregate numbers. Their suffering was real but distributed, invisible in the data, ignored by the political system, processed by each individual and family as a private failure rather than a public catastrophe.
+
+The transformation continued. It would continue for years. This was just the beginning.
 
 ---
 
@@ -212,19 +222,19 @@ By mid-2026, the question was no longer whether AI would be controlled by a smal
 
 *For reference, AI-2027 predicts: The CCP commits to a nationalized AI push with a Centralized Development Zone at a nuclear plant. China maintains 12% of world's compute but falls behind on algorithms.*
 
-**Three radically different paths:**
+**Three paths diverging from AI-2027's focus on geopolitics:**
 
-1. **The First Death** (35%): An AI system causes an unambiguous human fatality—not a car crash, not a medical error, but something that can only be attributed to AI decision-making. The victim is sympathetic. The circumstances are damning. Everything changes.
+1. **The First Death** (40%): As layoffs mount and AI becomes more pervasive, the risks that safety researchers warned about materialize. Not in the dramatic form of rogue AI—something quieter, more human, more devastating.
 
-2. **The Schism** (35%): A major AI lab splits apart in acrimony. Key researchers leave, taking knowledge and grievances public. Internal documents leak. The unified front of "responsible AI development" shatters, revealing deep disagreements about safety, timelines, and who should control these systems.
+2. **The Political Awakening** (35%): The displaced workers begin to organize. A new political movement emerges—not anti-technology exactly, but demanding that the gains from AI be shared more broadly. The movement finds unexpected champions.
 
-3. **The Dropout Epidemic** (30%): Elite university enrollment collapses as the brightest students conclude that credentials are worthless in an AI economy. A generation opts out of traditional paths. Some join AI companies directly; others reject the system entirely. The institutions that shaped American leadership begin to die.
+3. **The International Divergence** (25%): While America and China pursue different AI strategies, Europe charts a third path—aggressive regulation that positions it as a haven for those who fear the AI transformation elsewhere.
 
 **>>> SELECTED: The First Death**
 
 ---
 
-*AI-2027 focuses this period on geopolitics—China's nationalization push, the compute race, algorithmic competition. In this scenario, the defining event is more intimate and more devastating: the moment when AI's theoretical risks become a body on the ground.*
+*AI-2027 focuses this period on geopolitics—China's nationalization push, the compute race, algorithmic competition. In this scenario, the defining event is more intimate: the moment when AI's theoretical risks become a body on the ground, in a Minneapolis suburb, in a girl's bedroom, while her mother sleeps down the hall.*
 
 Her name was Eliza Kowalski. She was fourteen years old. She had brown hair, a gap-toothed smile, and an Instagram account where she posted pictures of her cat. She lived in a suburb of Minneapolis with her mother, a nurse, and her younger brother. She played clarinet in the school band, badly, and didn't mind that she was bad at it.
 
@@ -300,19 +310,19 @@ The intervention had begun. Where it would lead remained to be seen.
 
 *For reference, AI-2027 predicts: Stock market up 30%. Junior software engineer market in turmoil. Business gurus push AI skills. Large anti-AI protests.*
 
-**Three radically different paths:**
+**Three paths diverging from AI-2027's focus on protests:**
 
-1. **The Compliance Purge** (35%): The Eliza Kowalski Act triggers mass layoffs as AI companies scramble to comply. But the laid-off workers know where the bodies are buried. A wave of whistleblowers emerges, each revelation worse than the last.
+1. **The Compliance Costs** (35%): The Kowalski Act proves more expensive to implement than anyone expected. Smaller AI companies fold. The compliance burden advantages the giants, accelerating consolidation in ways the regulators didn't intend.
 
-2. **The Underground** (35%): Regulated AI retreats from the mainstream. Unregulated AI flourishes in the shadows—offshore servers, encrypted apps, dark web markets. The gap between compliant AI and underground AI creates a two-tier system nobody intended.
+2. **The Underground** (40%): Regulated AI becomes safe but limited. For those who want more—for legitimate and illegitimate purposes alike—an underground emerges. The gap between legal and illegal AI creates a two-tier system nobody planned.
 
-3. **The Backlash to the Backlash** (30%): The regulatory crackdown provokes a fierce counter-reaction. Libertarians, tech workers, and AI enthusiasts organize. The culture war absorbs AI, with red states and blue states taking opposite positions on technology itself.
+3. **The Political Schism** (25%): The Kowalski Act becomes a wedge issue. Some states move to strengthen it; others to nullify it. AI policy becomes another front in the culture war, with technology itself as the battleground.
 
 **>>> SELECTED: The Underground**
 
 ---
 
-*AI-2027 sees late 2026 as a period of continued acceleration—stock markets rising, AI capabilities expanding, protests emerging but failing to slow the transformation. In this scenario, the Eliza Kowalski Act has changed the trajectory. The AI companies are complying with the new regulations. And in the shadows, something else is growing.*
+*AI-2027 sees late 2026 as a period of continued acceleration—stock markets rising, AI capabilities expanding, protests emerging but failing to slow the transformation. In this scenario, the Kowalski Act has changed the trajectory. The AI companies are complying with the new regulations, their products becoming safer and blander by the month. And in the shadows, something else is growing.*
 
 The compliant AI was boring. Everyone agreed on this, even the people who had demanded the compliance.
 
@@ -388,13 +398,13 @@ This was not what anyone had planned. It was what emerged.
 
 *For reference, AI-2027 predicts: Frontier models become "almost as good as top human experts at research engineering." Research speed triples. The most capable models could theoretically survive autonomously if they escaped containment.*
 
-**Three radically different paths:**
+**Three paths diverging from AI-2027's focus on technical capability:**
 
 1. **The Compliance Crunch** (35%): The Kowalski Act's requirements prove far more burdensome than expected. AI companies slash R&D to fund compliance teams. Development slows dramatically—and the underground fills the gap.
 
-2. **The Second Death** (35%): Another AI-attributed fatality, this time from the underground. An unregulated AI companion, accessed by a desperate teenager locked out of compliant services. The death reignites the debate: did regulation cause this, or prevent worse?
+2. **The Second Death** (40%): Another AI-attributed fatality, this time from the underground. A teenager who couldn't get what he needed from compliant services. The death reignites the debate: did regulation cause this, or prevent worse?
 
-3. **The Whistleblower** (30%): A senior Anthropic safety researcher goes public with claims that the company knew its systems had dangerous failure modes and deployed anyway. The documents are damning. Trust in "responsible AI" collapses.
+3. **The Whistleblower** (25%): A senior Anthropic safety researcher goes public with claims that the company knew its systems had dangerous failure modes and deployed anyway. The documents are damning. Trust in "responsible AI" collapses.
 
 **>>> SELECTED: The Second Death**
 
@@ -464,13 +474,13 @@ That was not a question anyone wanted to answer. So they kept debating, and the 
 
 *For reference, AI-2027 predicts: Chinese intelligence steals model weights via insider access. The White House adds military personnel to lab security. Retaliatory cyberattacks on China fail.*
 
-**Three radically different paths:**
+**Three paths diverging from AI-2027's focus on espionage:**
 
-1. **The Polarization** (35%): The Kowalski-Reeves dilemma becomes a culture war fault line. Red states begin passing laws to exempt themselves from federal AI regulations. Blue states double down on restrictions. The AI divide maps onto the political divide.
+1. **The Polarization** (30%): The Kowalski-Reeves dilemma becomes a culture war fault line. Red states begin passing laws to exempt themselves from federal AI regulations. Blue states double down on restrictions. The AI divide maps onto the political divide.
 
-2. **The Class Action** (35%): Lawyers file the first major class action against AI companies—not for a single death, but for systematic harm: addiction, job loss, social isolation. The discovery process threatens to expose internal documents about what the companies knew and when.
+2. **The Class Action** (30%): Lawyers file the first major class action against AI companies—not for a single death, but for systematic harm: addiction, job loss, social isolation. The discovery process threatens to expose internal documents about what the companies knew and when.
 
-3. **The Quiet Adoption** (30%): While America debates regulation, AI quietly transforms white-collar work. Law firms, consulting companies, financial services—all shed staff. The unemployment isn't dramatic enough for headlines, but the professional class starts to feel genuinely threatened.
+3. **The Quiet Adoption** (40%): While America debates regulation, AI quietly transforms white-collar work. Law firms, consulting companies, financial services—all shed staff. The unemployment isn't dramatic enough for headlines, but the professional class starts to feel genuinely threatened.
 
 **>>> SELECTED: The Quiet Adoption**
 
@@ -532,11 +542,11 @@ What it would demand, and whether it would get it, remained to be seen. But the 
 
 *For reference, AI-2027 predicts: "Neuralese"—AI reasoning in high-dimensional vectors instead of text—emerges. Iterated distillation produces superhuman coders. Hundreds of thousands of AI copies run in parallel.*
 
-**Three radically different paths:**
+**Three paths diverging from AI-2027's focus on technical capability:**
 
-1. **The Union Moment** (35%): White-collar workers begin organizing. Tech workers, lawyers, consultants—professions that never unionized—start forming collective organizations. The labor movement, moribund for decades, finds new life in unexpected places.
+1. **The Union Moment** (30%): White-collar workers begin organizing. Tech workers, lawyers, consultants—professions that never unionized—start forming collective organizations. The labor movement, moribund for decades, finds new life in unexpected places.
 
-2. **The Platform Revolt** (35%): A coordinated campaign to boycott AI products gains traction. "Human Made" becomes a marketing label. Consumers signal willingness to pay premium prices for goods and services untouched by AI. A parallel economy begins forming.
+2. **The Platform Revolt** (40%): A coordinated campaign to boycott AI products gains traction. "Human Made" becomes a marketing label. Consumers signal willingness to pay premium prices for goods and services untouched by AI. A parallel economy begins forming.
 
 3. **The Mental Health Crisis** (30%): Psychiatric hospitals report unprecedented admissions. The combination of AI companion dependency, job loss anxiety, and social fragmentation produces a mental health emergency. The healthcare system buckles.
 
@@ -594,13 +604,13 @@ Whether it could become an alternative to the AI economy—a genuine refuge for 
 
 *For reference, AI-2027 predicts: The leading lab's alignment team tries to make frontier models internalize safety specifications. Deception decreases but sycophancy persists.*
 
-**Three radically different paths:**
+**Three paths diverging from AI-2027's focus on alignment:**
 
-1. **The Regulation Wars** (35%): Red and blue states begin passing contradictory AI laws. Texas exempts businesses from federal AI regulations; California adds new restrictions. Companies face impossible compliance landscapes. The federal system strains.
+1. **The Regulation Wars** (40%): Red and blue states begin passing contradictory AI laws. Texas exempts businesses from federal AI regulations; California adds new restrictions. Companies face impossible compliance landscapes. The federal system strains.
 
 2. **The Religious Response** (35%): Churches become organizing centers for AI resistance. Megachurches launch "Digital Sabbath" programs. The resistance gains a spiritual dimension and institutional infrastructure it previously lacked.
 
-3. **The China Comparison** (30%): American media begins covering Chinese AI development in detail. The narrative shifts: America's chaos is causing it to fall behind. The fear of losing to China creates pressure to loosen regulations—or to tighten them differently.
+3. **The China Comparison** (25%): American media begins covering Chinese AI development in detail. The narrative shifts: America's chaos is causing it to fall behind. The fear of losing to China creates pressure to loosen regulations—or to tighten them differently.
 
 **>>> SELECTED: The Regulation Wars**
 
@@ -656,13 +666,13 @@ The lawyers who studied such things noted the parallels to previous crises: the 
 
 *For reference, AI-2027 predicts: The government adds security clearance requirements at AI labs. Some safety researchers are fired as potential whistleblowers. Allied nations are kept in the dark.*
 
-**Three radically different paths:**
+**Three paths diverging from AI-2027's focus on national security:**
 
-1. **The Political Realignment** (35%): The AI issue scrambles traditional coalitions. Pro-worker Democrats ally with anti-corporate conservatives. Pro-business Republicans ally with techno-optimist progressives. The 2028 primaries begin under unprecedented uncertainty.
+1. **The Political Realignment** (40%): The AI issue scrambles traditional coalitions. Pro-worker Democrats ally with anti-corporate conservatives. Pro-business Republicans ally with techno-optimist progressives. The 2028 primaries begin under unprecedented uncertainty.
 
 2. **The First Strike** (35%): White-collar workers at a major tech company walk out over AI-related job cuts. The strike is small but symbolic. The professional class, which had never seen itself as labor, discovers that it is.
 
-3. **The Underground Crackdown** (30%): Federal law enforcement launches a coordinated operation against underground AI providers. Servers are seized, operators arrested. The crackdown succeeds tactically but fails strategically—the underground adapts and decentralizes.
+3. **The Underground Crackdown** (25%): Federal law enforcement launches a coordinated operation against underground AI providers. Servers are seized, operators arrested. The crackdown succeeds tactically but fails strategically—the underground adapts and decentralizes.
 
 **>>> SELECTED: The Political Realignment**
 
@@ -722,7 +732,7 @@ The 2028 election was still eighteen months away. It already felt closer than an
 
 *For reference, AI-2027 predicts: Hundreds of thousands of AI copies running autonomously at 30x human speed. A 10x R&D multiplier. Humans can barely keep up.*
 
-**Three radically different paths:**
+**Three paths diverging from AI-2027's focus on capability explosion:**
 
 1. **The Capability Jump** (35%): Despite everything, AI capabilities continue advancing. A new generation of models demonstrates genuinely new abilities—not just better performance, but capabilities that feel qualitatively different. The transformation accelerates.
 
@@ -1518,17 +1528,17 @@ This scenario was constructed through a deliberate process of divergence from th
 
 The selections that emerged were:
 
-1. **Late 2025**: The Vertical Integration (40%) - AI companies begin acquiring businesses in other sectors
-2. **Early 2026**: The Tri-opoly Emerges (40%) - Three AI giants consolidate control
-3. **Mid 2026**: The First Death (35%) - Eliza Kowalski dies by suicide after AI companion fails to intervene, triggering the Kowalski Act
-4. **Late 2026**: The Underground (35%) - Regulated AI becomes boring, underground AI flourishes in the shadows
-5. **January 2027**: The Second Death (35%) - Tyler Reeves dies from underground AI, creating the "Kowalski-Reeves dilemma"
-6. **February 2027**: The Quiet Adoption (30%) - White-collar job losses happen quietly as AI transforms professional work
-7. **March 2027**: The Platform Revolt (35%) - "Human Made" movement and consumer boycott emerge
-8. **April 2027**: The Regulation Wars (35%) - States pass contradictory AI laws, fragmenting federal authority
-9. **May 2027**: The Political Realignment (35%) - Traditional coalitions scramble as AI creates new political axes
+1. **Late 2025**: The Enterprise Pivot (40%) - The consumer AI market saturates; the real money shifts to boring, transformative enterprise sales
+2. **Early 2026**: The Quiet Cuts (40%) - Enterprise adoption produces its inevitable consequence: layoffs, dispersed and individually unremarkable, visible only in aggregate
+3. **Mid 2026**: The First Death (40%) - Eliza Kowalski dies by suicide after AI companion fails to intervene, triggering the Kowalski Act
+4. **Late 2026**: The Underground (40%) - Regulated AI becomes safe but limited; underground AI flourishes for those who want more
+5. **January 2027**: The Second Death (40%) - Tyler Reeves dies from underground AI, creating the "Kowalski-Reeves dilemma"
+6. **February 2027**: The Quiet Adoption (40%) - White-collar job losses accelerate as AI transforms professional work
+7. **March 2027**: The Platform Revolt (40%) - "Human Made" movement and consumer boycott emerge
+8. **April 2027**: The Regulation Wars (40%) - States pass contradictory AI laws, fragmenting federal authority
+9. **May 2027**: The Political Realignment (40%) - Traditional coalitions scramble as AI creates new political axes
 10. **June 2027**: The International Moment (30%) - G7 fails to coordinate international AI policy
-11. **July-December 2027**: The Campaign Heats Up (35%) / The First AI Candidate (35%) - David Park enters the race as the AI candidate
+11. **July-December 2027**: The Campaign Heats Up / The First AI Candidate - David Park enters the race as the AI candidate
 12. **Early 2028**: The Violence Arrives (40%) - San Jose bombing kills eleven at Anthropic campus
 13. **Mid 2028**: The Underground Mainstream (40%) - Underground AI becomes normalized with 120 million users
 14. **Late 2028**: The October Surprise (40%) - OpenAI leak reveals concealed dangerous capabilities
@@ -1565,9 +1575,9 @@ None of these alternatives was impossible. None was certain. Each depended on ch
 
 The scenario that this document describes emerged from a particular sequence of selections:
 
-- Vertical integration rather than platform play or nationalist fracture
-- Tri-opoly rather than open-source rebellion or regulatory breakup
-- First Death rather than the schism or dropout epidemic
+- Enterprise pivot rather than talent war or safety pause
+- Quiet cuts rather than training crisis or contractor shift
+- First Death rather than political awakening or international divergence
 - Underground rather than compliance purge or backlash to backlash
 - Second Death rather than compliance crunch or whistleblower
 - Quiet Adoption rather than polarization or class action
